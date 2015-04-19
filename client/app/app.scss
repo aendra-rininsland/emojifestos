@@ -1,0 +1,19 @@
+$icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/bootstrap/";
+$fa-font-path: "/bower_components/font-awesome/fonts";
+
+@import 'bootswatch-scss/sandstone/_variables';
+@import "bootstrap-sass-official/assets/stylesheets/bootstrap/variables";
+@import 'bootstrap-sass-official/assets/stylesheets/bootstrap';
+@import 'bootswatch-scss/sandstone/_bootswatch';
+
+@import 'font-awesome/scss/font-awesome';
+
+
+
+// Component styles are injected through grunt
+// injector
+@import 'account/login/login.scss';
+@import 'admin/admin.scss';
+@import 'main/main.scss';
+@import 'modal/modal.scss';
+// endinjector
