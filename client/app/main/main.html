@@ -7,6 +7,30 @@
       A project to depict this year's election manifestos — entirely through emoji.
     </p>
   </div>
+  
+  <h1>Top Emojifestos</h1>
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>entry</th>
+        <th>original</th>
+        <th>submitter</th>
+        <th>date</th>
+        <th>points</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="row in topEntries">
+        <td>{{row.position}}</td>
+        <td>{{row.entry}}</td>
+        <td>{{row.original}}</td>
+        <td>{{row.submitter}}</td>
+        <td>{{row.date}}</td>
+        <td>{{row.points}}</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <footer class="footer">
