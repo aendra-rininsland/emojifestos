@@ -2,6 +2,10 @@
 
 angular.module('emojifestosApp')
   .controller('MainCtrl', function ($scope, $http, Auth, $sce) {
+    $scope.isOSX = function(){
+      return navigator.platform.indexOf('Mac') > -1;
+    };
+    
     $scope.isLoggedIn = Auth.isLoggedIn;
     var getKey = function(obj) {
       var keys = Object.keys(obj);

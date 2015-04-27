@@ -17,13 +17,13 @@
           <em>Source: </em> {{chosenParty}} Party manifesto, section <cite title="manifesto section">"{{chosenSection}}"</cite>
         </footer>
       </blockquote>
-      
     </div>
     <form name="form" class="css-form" novalidate>
       <div class="form-group" ng-class="{'has-error': form.submission.$error.emoji, 'has-success': !form.submission.$error.emoji}">
         <textarea name="submission" class="form-control big-font" type="text" emoji ng-model="userSubmission"></textarea>
         <label class="control-label" for="submission" ng-show="form.submission.$error.emoji">Please use emoji only!</label>
       </div>
+      <h5 ng-if="isOSX()">Hint: on OS X, press ⌃+⌘+spacebar</h5>
     </form>
     
     
