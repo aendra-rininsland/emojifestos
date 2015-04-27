@@ -5,7 +5,7 @@
 module.exports = {
   // MongoDB connection options
   mongo: {
-    uri: 'mongodb://localhost/emojifestos-dev'
+    uri: 'mongodb://localhost/emojifestos'
   },
 
   seedDB: true

@@ -8,6 +8,31 @@
     </p>
   </div>
   
+  <h3>Submit an emojifesto!</h3>
+  <div class="row submit">
+    <div class="selection">
+      <h3>Manifesto: {{chosenParty}}</h3>
+      <h4>Section: {{chosenSection}}</h4>
+      <div ng-bind-html="chosenManifesto"></div>
+    </div>
+    <form name="form" class="css-form" novalidate>
+      <div class="form-group" ng-class="{'has-error': form.submission.$error.emoji, 'has-success': !form.submission.$error.emoji}">
+        <textarea name="submission" class="form-control big-font" type="text" emoji ng-model="userSubmission"></textarea>
+        <label class="control-label" for="submission" ng-show="form.submission.$error.emoji">Please use emoji only!</label>
+      </div>
+    </form>
+    
+    
+    <div ng-if="!isLoggedIn()">
+      <a class="btn btn-twitter" href="" ng-click="loginOauth('twitter')">
+        <i class="fa fa-twitter"></i> Connect with Twitter to add your submission!
+      </a>
+    </div>
+    <div ng-if="isLoggedIn()">
+      <button class="btn">Submit</button>
+    </div>
+  </div>
+  
   <h1>Top Emojifestos</h1>
   <table class="table table-hover">
     <thead>
