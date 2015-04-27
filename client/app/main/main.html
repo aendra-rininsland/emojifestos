@@ -11,9 +11,13 @@
   <h3>Submit an emojifesto!</h3>
   <div class="row submit">
     <div class="selection">
-      <h3>Manifesto: {{chosenParty}}</h3>
-      <h4>Section: {{chosenSection}}</h4>
-      <div ng-bind-html="chosenManifesto"></div>
+      <blockquote>
+        <p class="lead" ng-bind-html="chosenManifesto"></p>
+        <footer>
+          <em>Source: </em> {{chosenParty}} Party manifesto, section <cite title="manifesto section">"{{chosenSection}}"</cite>
+        </footer>
+      </blockquote>
+      
     </div>
     <form name="form" class="css-form" novalidate>
       <div class="form-group" ng-class="{'has-error': form.submission.$error.emoji, 'has-success': !form.submission.$error.emoji}">
