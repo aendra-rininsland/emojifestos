@@ -11,4 +11,4 @@ var ManifestoSchema = new Schema({
 
 ManifestoSchema.plugin(random, { path: 'r' });
 
-module.exports = mongoose.model('manifesto', ManifestoSchema);
+module.exports = mongoose.model('manifestos', ManifestoSchema);

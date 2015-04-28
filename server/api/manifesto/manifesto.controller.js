@@ -7,6 +7,7 @@ var Manifesto = require('./manifesto.model');
 exports.index = function(req, res) {
   Manifesto.findRandom().limit(1).exec(function (err, manifestos) {
     if(err) { return handleError(res, err); }
+    console.dir(manifestos);
     var keys = Object.keys(manifestos[0]._doc.data);
     var key = keys[Math.floor(Math.random()*keys.length)];
     var item = { 
@@ -29,6 +30,13 @@ exports.show = function(req, res) {
     if(err) { return handleError(res, err); }
     if(!manifesto) { return res.send(404); }
     return res.json(manifesto);
+  });
+};
+
+// Get a single manifesto
+exports.randomise = function(req, res) {
+  Manifesto.syncRandom(function (err, result) {
+    console.log(result.updated);
   });
 };
 
