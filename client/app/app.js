@@ -5,7 +5,8 @@ angular.module('emojifestosApp', [
   'ngResource',
   'ngSanitize',
   'ui.router',
-  'ui.bootstrap'
+  'vkEmojiPicker',
+  'ui.bootstrap.popover'
 ])
   .config(function ($stateProvider, $urlRouterProvider, $locationProvider, $httpProvider) {
     $urlRouterProvider

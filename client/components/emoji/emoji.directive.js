@@ -31,11 +31,10 @@ angular.module('emojifestosApp')
             '\ud83d[\ude00-\ude36]',  // 6a. Additional emoticons ( 1F600 - 1F636 )
             '\ud83d[\ude81-\udec5]',  // 6b. Additional transport and map symbols ( 1F681 - 1F6C5 )
             '\ud83c[\udf0d-\udfe4]',  // 6c. Other additional symbols ( 1F30D - 1F567 )
-            '\ud83d[\udc00-\udd67]'
+            '\ud83d[\udc00-\udd67]',
+            ':.*?:'
           ];
-          console.log(ranges.join('|'))
           var EMOJI_REGEXP = new RegExp('^(?:' + ranges.join('|') + ')+$', 'g');
-          console.log(EMOJI_REGEXP);
           
           if (ctrl.$isEmpty(modelValue)) {
             // consider empty models to be valid
