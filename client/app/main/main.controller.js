@@ -1,12 +1,51 @@
 'use strict';
 
 angular.module('emojifestosApp')
-  .controller('MainCtrl', function ($scope, $http, Auth, $sce) {
+  .controller('MainCtrl', function ($scope, $http, Auth, $sce, $window, Translation) {
     $scope.isOSX = function(){
       return navigator.platform.indexOf('Mac') > -1;
     };
     
+    $scope.loginOauth = function(provider) {
+      $window.location.href = '/auth/' + provider;
+    };
+    
+    $scope.submitTranslation = function(form) {
+      $scope.submitted = true;
+      if(form.$valid) {
+        var submit = function(translation, party, section, key, callback) {
+          var cb = callback || angular.noop;
+          return Translation.submit({}, {
+            translation: translation,
+            party: party,
+            section: section,
+            key: key
+          }, function(res) {
+            console.dir(res);
+            return cb(res);
+          }, function(err) {
+            console.dir(err);
+            return cb(err);
+          }).$promise;
+        };
+        
+        submit($scope.userTranslation, $scope.translationParty, $scope.translationSection, $scope.pieceKey)
+        .then( function() {
+          console.dir('succcess');
+          $scope.message = 'Translation successfully submitted.';
+        })
+        .catch( function() {
+          console.dir('mong error');
+          form.submission.$setValidity('mongoose', false);
+          $scope.errors.other = 'Problem submitting.';
+          $scope.message = '';
+        });
+      }
+    };
+    
     $scope.isLoggedIn = Auth.isLoggedIn;
+    
+    
     var getKey = function(obj) {
       var keys = Object.keys(obj);
       var key = keys[Math.floor(Math.random()*keys.length)];
@@ -15,32 +54,29 @@ angular.module('emojifestosApp')
     };
     
     $http.get('/api/manifestos').success(function(res){
-      console.dir(res);
       $scope.chosenParty = res.name;
       $scope.chosenSection = res.section;
       var keys = Object.keys(res.data);
-      var pieceKey = getKey(res.data);
-      var listCheck = pieceKey.match(/^(?:u|o)l_(\d)$/);
-      if ( listCheck !== null) {
-        console.dir(listCheck);
+      $scope.pieceKey = getKey(res.data);
+      var listCheck = $scope.pieceKey.match(/^(?:u|o)l_(\d)$/);
+      if ( listCheck !== null) { // Is a list item
         var prev = keys.filter(function(d){
           var prevIndex = parseInt(listCheck[1]) - 1;
           var reg = new RegExp('^.*?_' + prevIndex + '$', 'g');
           return d.match(reg) !== null;
         })[0];
         var text = '<strong>' + res.data[prev] + '</strong><br />';
-        var items = angular.element(res.data[pieceKey]);
-        var item = items[Math.floor(Math.random()*items.length)];
+        var items = angular.element(res.data[$scope.pieceKey]);
+        var itemIndex = Math.floor(Math.random()*items.length);
+        var item = items[itemIndex];
         text += '• <em>' + item.innerText + '</em>';
         $scope.chosenManifesto = $sce.trustAsHtml(text);
-      } else if (res.data[pieceKey].trim() === ''){
-        pieceKey = keys.indexOf(pieceKey) + 1 < keys.length ? keys.indexOf(pieceKey) + 1 : keys.indexOf(pieceKey) - 1 ;
-        console.log('empty');
-        console.log(pieceKey);
-        $scope.chosenManifesto = res.data[pieceKey];
-      } else {
-        console.log('normal');
-        $scope.chosenManifesto = res.data[pieceKey];
+        $scope.pieceKey = $scope.pieceKey + '__' + itemIndex;
+      } else if (res.data[$scope.pieceKey].trim() === ''){ // empty key
+        $scope.pieceKey = keys.indexOf($scope.pieceKey) + 1 < keys.length ? keys.indexOf($scope.pieceKey) + 1 : keys.indexOf($scope.pieceKey) - 1 ;
+        $scope.chosenManifesto = res.data[$scope.pieceKey];
+      } else { // normal key
+        $scope.chosenManifesto = res.data[$scope.pieceKey];
       }
       
       

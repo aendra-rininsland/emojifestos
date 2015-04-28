@@ -22,7 +22,9 @@ exports.show = function(req, res) {
 
 // Creates a new translation in the DB.
 exports.create = function(req, res) {
+  console.dir(req.body);
   Translation.create(req.body, function(err, translation) {
+    console.dir(translation);
     if(err) { return handleError(res, err); }
     return res.json(201, translation);
   });
