@@ -2,6 +2,14 @@
 
 var _ = require('lodash');
 var Translation = require('./translation.model');
+var config = require('../../config/environment');
+var Twit = require('twit');
+var T = new Twit({
+  consumer_key:         config.twitter.clientID, 
+  consumer_secret:      config.twitter.clientSecret,
+  access_token:         process.env.BOT_TOKEN,
+  access_token_secret:  process.env.BOT_SECRET
+});
 
 // Get list of translations
 exports.index = function(req, res) {
@@ -22,10 +30,15 @@ exports.show = function(req, res) {
 
 // Creates a new translation in the DB.
 exports.create = function(req, res) {
-  console.dir(req.body);
   Translation.create(req.body, function(err, translation) {
-    console.dir(translation);
     if(err) { return handleError(res, err); }
+    
+    // Tweet aboot it!
+    T.post('statuses/update', { status: req.body.translation + ' — ' + req.body.party + ' Party' + ' ' + 'http://www.emojifestos.com/translation/' + translation.id }, function(err, data, response) {
+      console.log('Tweeted!');
+      console.log(data);
+    })
+    
     return res.json(201, translation);
   });
 };

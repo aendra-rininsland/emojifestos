@@ -6,6 +6,11 @@ angular.module('emojifestosApp')
       .state('translation', {
         url: '/translation/:id',
         templateUrl: 'app/translation/translation.html',
-        controller: 'TranslationCtrl'
+        controller: 'TranslationCtrl',
+        resolve: {
+          item: function(Translation, $stateParams) {
+            return Translation.get({id: $stateParams.id});
+          }
+        }
       });
   });

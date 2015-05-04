@@ -1,13 +1,3 @@
-<div ng-include="'components/navbar/navbar.html'"></div>
-
-<div class="container">
-  <div class="jumbotron">
-    <h1>emojifestos</h1>
-    <p>
-      A project to depict this year's election manifestos — entirely through emoji.
-    </p>
-  </div>
-  
   <h3>Submit an emojifesto!</h3>
   <div class="row submit">
     <div class="selection">
@@ -21,12 +11,12 @@
     <form name="form" class="css-form" novalidate ng-submit="submitTranslation(form)">
       <div class="form-group" ng-class="{'has-error': form.submission.$error.emoji, 'has-success': !form.submission.$error.emoji}">
         <div ng-bind-html="userSubmission | emojify"></div>
-        <textarea name="submission" class="form-control big-font" type="text" ng-model="userTranslation" ng-maxlength="140" maxlength="140" ng-minlength="2"></textarea>
+        <textarea name="submission" class="form-control big-font" ng-disabled="!isLoggedIn()" type="text" ng-model="userTranslation" ng-maxlength="140" maxlength="140" ng-minlength="2"></textarea>
         <label class="control-label" for="submission">Characters remaining: {{140 - userTranslation.length}}</label>
         <label class="control-label" for="submission" ng-show="form.submission.$error.emoji">Please use emoji only!</label>
         <label class="control-label" for="submission" ng-show="form.submission.$error.maxlength">Must be less than 140 characters!</label>
         <br />
-        <!-- <div><span>Launch emoji picker</span> <span class="picker" emoji-picker="userTranslation" placement="right" title="Emoji picker" recent-limit="12">Choose emoji</span></div> -->
+        <div><span>Launch emoji picker</span> <span class="picker" emoji-picker="userTranslation" placement="right" title="Emoji picker" recent-limit="12">Choose emoji</span></div>
       </div>
       
       <h5 ng-if="isOSX()">Hint: on OS X, press ⌃+⌘+spacebar</h5>
@@ -48,8 +38,8 @@
     </form>
   </div>
   
-  <h1>Top Emojifestos</h1>
-  <table class="table table-hover">
+  <h1 ng-if="false">Top Emojifestos</h1>
+  <table class="table table-hover" ng-if="false">
     <thead>
       <tr>
         <th>#</th>
@@ -71,12 +61,3 @@
       </tr>
     </tbody>
   </table>
-</div>
-
-<footer class="footer">
-  <div class="container">
-      <p>emojifestos |
-        a web experiment by <a href="http://www.twitter.com">@aendrew</a> |
-         <a href="https://github.com/times/">Times Digital Development</a></p>
-  </div>
-</footer>

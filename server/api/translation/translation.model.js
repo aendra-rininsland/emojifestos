@@ -4,9 +4,12 @@ var mongoose = require('mongoose'),
     Schema = mongoose.Schema;
 
 var TranslationSchema = new Schema({
-  name: String,
-  info: String,
-  active: Boolean
+  translation: String,
+  text: String,
+  party: String,
+  section: String,
+  key: String,
+  user: Object,
 });
 
 module.exports = mongoose.model('Translation', TranslationSchema);

@@ -15,7 +15,7 @@ angular.module('emojifestosApp')
       get: {
         method: 'GET',
         params: {
-          id:'me'
+          id: 'me'
         }
       }
 	  });

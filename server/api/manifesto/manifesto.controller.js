@@ -7,7 +7,6 @@ var Manifesto = require('./manifesto.model');
 exports.index = function(req, res) {
   Manifesto.findRandom().limit(1).exec(function (err, manifestos) {
     if(err) { return handleError(res, err); }
-    console.dir(manifestos);
     var keys = Object.keys(manifestos[0]._doc.data);
     var key = keys[Math.floor(Math.random()*keys.length)];
     var item = { 

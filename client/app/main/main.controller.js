@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('emojifestosApp')
-  .controller('MainCtrl', function ($scope, $http, Auth, $sce, $window, Translation) {
+  .controller('MainCtrl', function ($scope, $http, Auth, $sce, $window, Translation, $state) {
     $scope.isOSX = function(){
       return navigator.platform.indexOf('Mac') > -1;
     };
@@ -13,13 +13,15 @@ angular.module('emojifestosApp')
     $scope.submitTranslation = function(form) {
       $scope.submitted = true;
       if(form.$valid) {
-        var submit = function(translation, party, section, key, callback) {
+        var submit = function(translation, party, section, key, text, callback) {
           var cb = callback || angular.noop;
           return Translation.submit({}, {
             translation: translation,
+            text: text,
             party: party,
             section: section,
-            key: key
+            key: key,
+            user: Auth.getCurrentUser()
           }, function(res) {
             console.dir(res);
             return cb(res);
@@ -29,10 +31,11 @@ angular.module('emojifestosApp')
           }).$promise;
         };
         
-        submit($scope.userTranslation, $scope.translationParty, $scope.translationSection, $scope.pieceKey)
-        .then( function() {
+        submit($scope.userTranslation, $scope.chosenParty, $scope.chosenSection, $scope.pieceKey, $scope.chosenManifesto)
+        .then( function(res) {
           console.dir('succcess');
           $scope.message = 'Translation successfully submitted.';
+          $state.go('translation', {id: res._id});
         })
         .catch( function() {
           console.dir('mong error');

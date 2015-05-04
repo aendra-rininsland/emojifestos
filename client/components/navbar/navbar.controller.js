@@ -4,12 +4,8 @@ angular.module('emojifestosApp')
   .controller('NavbarCtrl', function ($scope, $location, Auth) {
     $scope.menu = [
       {
-        'title': 'About',
+        'title': 'Home',
         'link': '/'
-      },
-      {
-        'title': 'Submit',
-        'link': '/new'
       }
     ];
     

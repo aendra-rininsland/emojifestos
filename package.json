@@ -24,7 +24,8 @@
     "passport-google-oauth": "latest",
     "passport-local": "~0.1.6",
     "passport-twitter": "latest",
-    "serve-favicon": "~2.0.1"
+    "serve-favicon": "~2.0.1",
+    "twit": "^1.1.20"
   },
   "devDependencies": {
     "grunt": "~0.4.4",

@@ -27,8 +27,24 @@
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-    <!-- Add your site or application content here -->
-    <div ui-view=""></div>
+    <div ng-include="'components/navbar/navbar.html'"></div>
+    <div class="container">
+      <div class="jumbotron">
+        <h1>emojifestos</h1>
+        <p>
+          A project to depict this year's election manifestos — entirely through emoji.
+        </p>
+      </div>
+      <div ui-view=""></div>
+    </div>
+    <footer class="footer">
+      <div class="container">
+          <p>emojifestos |
+            a web experiment by <a href="http://www.twitter.com">@aendrew</a> |
+             <a href="https://github.com/times/">Times Digital Development</a></p>
+      </div>
+    </footer>
+
 
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID -->
     <script>
@@ -75,6 +91,8 @@
           <script src="app/main/main.js"></script>
           <script src="app/manifesto/manifesto.controller.js"></script>
           <script src="app/manifesto/manifesto.js"></script>
+          <script src="app/translation/translation.controller.js"></script>
+          <script src="app/translation/translation.js"></script>
           <script src="components/auth/auth.service.js"></script>
           <script src="components/auth/user.service.js"></script>
           <script src="components/emoji/emoji.directive.js"></script>

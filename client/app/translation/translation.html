@@ -1,3 +1,11 @@
 <div class="col-md-12">
-This is the translation view.
+<h1>Translation</h1>
+
+<blockquote>
+  {{item.translation}}
+</blockquote>
+{{item}}
+<h4><em>{{item.text}}</em></h4>
+<h4>From: {{item.party}} Party, section "{{item.section}}"</h4>
+<h5><em>Submitted by: <a ng-href="http://www.twitter.com/{{item.user.twitter.screen_name}}">{{item.user.twitter.screen_name}}</em></a></h5>
 </div>
