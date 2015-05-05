@@ -308,6 +308,14 @@ module.exports = function (grunt) {
         }]
       }
     },
+    
+    uglify: {
+      options: {
+        beautify : {
+          ascii_only : true
+        }   
+      }
+    },
 
     // Package all the html partials into a single javascript payload
     ngtemplates: {

@@ -16,7 +16,7 @@
         <label class="control-label" for="submission" ng-show="form.submission.$error.emoji">Please use emoji only!</label>
         <label class="control-label" for="submission" ng-show="form.submission.$error.maxlength">Must be less than 140 characters!</label>
         <br />
-        <div><span>Launch emoji picker</span> <span class="picker" emoji-picker="userTranslation" placement="right" title="Emoji picker" recent-limit="12">Choose emoji</span></div>
+        <div><span>Launch emoji picker</span> <span class="picker" emoji-picker="userTranslation" output="unicode" placement="right" title="Emoji picker" recent-limit="12">Choose emoji</span></div>
       </div>
       
       <h5 ng-if="isOSX()">Hint: on OS X, press ⌃+⌘+spacebar</h5>
