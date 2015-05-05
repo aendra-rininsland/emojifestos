@@ -20,6 +20,12 @@ module.exports = function(app) {
   app.route('/:url(api|auth|components|app|bower_components|assets)/*')
    .get(errors[404]);
 
+  // Serve emoji picker img.
+  app.route('/img/emojis@2x.png')
+    .get(function(req, res) {
+      res.sendfile(app.get('appPath') + '/assets/images/emojis@2x.png');
+  });
+
   // All other routes should redirect to the index.html
   app.route('/*')
     .get(function(req, res) {
