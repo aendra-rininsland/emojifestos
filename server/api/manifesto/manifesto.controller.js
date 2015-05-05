@@ -6,16 +6,21 @@ var Manifesto = require('./manifesto.model');
 // Get list of manifestos
 exports.index = function(req, res) {
   Manifesto.findRandom().limit(1).exec(function (err, manifestos) {
-    if(err) { return handleError(res, err); }
-    var keys = Object.keys(manifestos[0]._doc.data);
-    var key = keys[Math.floor(Math.random()*keys.length)];
-    var item = { 
-      name: manifestos[0]._doc.name,
-      section: key,
-      data: manifestos[0]._doc.data[key]
-    };
-    
-    return res.json(200, item);
+    if(err) { return handleError(res, err); } 
+    else if (manifestos.length) {
+      var keys = Object.keys(manifestos[0]._doc.data);
+      var key = keys[Math.floor(Math.random()*keys.length)];
+      var item = { 
+        name: manifestos[0]._doc.name,
+        section: key,
+        data: manifestos[0]._doc.data[key]
+      };
+      
+      return res.json(200, item);
+    }
+    else {
+      return res.json(500, {});
+    }
   });
   // Manifesto.findOne(function (err, manifestos) {
   //   if(err) { return handleError(res, err); }

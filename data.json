@@ -2,558 +2,500 @@
     {
         "name": "Liberal Democratic",
         "data": {
-                "Intro": {
-                    "p_0": "We believe in everyone. Liberal Democrats do not exclude anyone.",
-                    "p_1": "The Liberal Democrats have worked in government since 2010 and we have made Britain’s economy better.",
-                    "p_2": "Since 2010 we have:",
-                    "ul_3": "<li class=\"c2 c3\">Increased Britain’s growth.</li><li class=\"c2 c3\">Made more job opportunities for people.</li><li class=\"c2 c3\">Reduce the amount of money the government borrows.</li>",
-                    "p_4": "Our top 5 priorities:",
-                    "ol_5": "<li class=\"c2 c3\">Secure economy: Have a strong economy and reduce the amount of money the government borrows.</li><li class=\"c2 c3\">Fair taxes: Let people earn £12,500 tax free.</li><li class=\"c2 c3\">Quality health care for all: Spend £8 billion to improve our NHS and guarantee equal care for mental health.</li><li class=\"c2 c3\">Opportunity for every child: Guarantee education funding from nursery to 19 and qualified teachers in every class.</li><li class=\"c2 c3\">Protect the environment: Protect nature and fight climate change.</li>"
-                },
-                "The economy": {
-                    "p_0": "People buy things like food and clothes and sell things like cars and houses.",
-                    "p_1": "Businesses buy and sell things. For example, a business that makes washing machines buys the parts for the machines and then sells the finished washing machines.",
-                    "p_2": "The banks look after our savings and lend us and businesses money.",
-                    "p_3": "How all this works together is called the economy.",
-                    "p_4": "There are lots of problems in the world with money. The economies of many countries are not working well.",
-                    "p_5": "Since we have been in government the economy has got better and is now stronger. ",
-                    "p_6": "We will:",
-                    "ul_7": "<li class=\"c2 c3\">Reduce the amount of money the government borrows and make sure they do not borrow money to pay for public services.</li><li class=\"c2 c3\">Make new rules so that banks have to pay Tax to help the government reduce the amount of money the government borrows.</li><li class=\"c2 c3\">Make sure that Britain spends money on transport and looking after the environment.</li>"
-                },
-                "Living standards": {
-                    "p_0": "We want everyone to have enough money to live a good life.",
-                    "p_1": "It is about everyone who can work having a job and paying fair Tax.",
-                    "p_2": "Since we have been in government people on low to middle incomes pay less tax.",
-                    "p_3": "We will:",
-                    "ul_4": "<li class=\"c2 c3\">Let people earn £12,500 tax free.</li><li class=\"c2 c3\">Charge more Tax for houses that cost more than £2 million.</li><li class=\"c2 c3\">Make sure people and businesses pay their Tax. </li>"
-                },
-                "Education": {
-                    "p_0": "We think children should have good education.",
-                    "p_1": "Since we have been in government there have been improvements, for example, there is more money for children who need the most help.",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c2 c3\">Make sure that all teachers are qualified and teach the National Curriculum.</li><li class=\"c2 c3\">Spend more money on childcare, schools and education for 16 to 19 year olds.</li><li class=\"c2 c3\">Have more free nursery places for children.</li><li class=\"c2 c3\">Make sure every child can read by the time they go to secondary school.</li>"
-                },
-                "Health": {
-                    "p_0": "We want healthcare to be good and available to people for free when they need it.",
-                    "p_1": "Since we have been in government there has been improvements, for example, health and social care has been joined up so people with long term conditions get the right help.",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c2 c3\">Spend £8 billon on the NHS to keep it strong.</li><li class=\"c2 c3\">Spend £500 million a year to make mental health care better.</li><li class=\"c2 c3\">Provide support to carers and give them a £250 bonus every year.</li><li class=\"c2 c3\">Stop bad care happening and support better pay and conditions for care staff.</li>"
-                },
-                "A green future for Britain": {
-                    "p_0": "We think we should look after the environment.",
-                    "p_1": "Since we have been in government Britain has become the greenest it has ever been.",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c2 c3\">Increase how much renewable energy is made.</li><li class=\"c2 c3\">Find out about green energy resources.</li><li class=\"c2 c3\">Reduce council tax if you insulate your home.</li><li class=\"c2 c3\">Stop landlords from letting out homes that people can not afford to heat.</li><li class=\"c2 c3\">Make energy companies offer a better service if people want to change supplier and save money.</li>"
-                },
-                "Environment": {
-                    "p_0": "We think we need to look after the natural environment and reduce the rubbish we make.",
-                    "p_1": "Since we have been in government 1 million trees have been planted and there is a plan to protect bees and insects.",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c2 c3\">Take care of England’s forests. By stopping them being sold and planting a tree for every child who is born.</li><li class=\"c2 c3\">Give people easier access to nature.</li><li class=\"c2 c3\">Have targets so we all have to protect nature and reduce our waste.</li>"
-                },
-                "Work": {
-                    "p_0": "We think everyone should have the chance to get a job, be paid fairly and have a better life.",
-                    "p_1": "Since we have been in government more jobs have been created which means there are more opportunities for people. ",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c2 c3\">Increase the minimum wage and pay people who work for the government the Living Wage.</li><li class=\"c2 c3\">Make sure that working means you will earn more money than you get on benefits.</li><li class=\"c2 c3\">Link up with local businesses to help more people into jobs.</li><li class=\"c2 c3\">Give fathers the chance to have more paternity leave.</li><li class=\"c2 c3\">Look at giving carers the chance to have leave.</li>"
-                },
-                "Young people": {
-                    "p_0": "We think every young person should have the opportunity to be the best they can.",
-                    "p_1": "We will:",
-                    "ul_2": "<li class=\"c2 c3\">Double the numbers of businesses who take on apprentices.</li><li class=\"c2 c3\">Reduce travel costs so young people can get to school and work. </li><li class=\"c2 c3\">Spend more money on mental health services so young people get help closer to their home.</li>"
-                },
-                "Pensions": {
-                    "p_0": "We think the way that older people are treated shows how fair society is.",
-                    "p_1": "Since we have been in government people have choice about their pensions and 5 million people have joined a workplace pension.",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c2 c3\">Make sure 9 million people join a workplace pensions.</li><li class=\"c2 c3\">Make pensions better so more people have one.</li><li class=\"c2 c3\">Change laws so pensions go up in value.</li>"
-                },
-                "Housing": {
-                    "p_0": "There are not enough houses In Britain.",
-                    "p_1": "This means that house prices and rent is expensive and people can not afford to buy their own house.",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c2 c3\">Build 300,000 new energy efficient homes a year and 10 new Garden Cities.</li><li class=\"c2 c3\">Help working people buy their first home for the same cost as renting. The rent that people pay will buy a share in the house they live in.</li><li class=\"c2 c3\">Help young people rent a house by giving a loan for a deposit.</li>"
-                },
-                "Equality": {
-                    "p_0": "We think that people have the right to privacy and to say what they think.",
-                    "p_1": "We believe everybody should be treated the same whatever their background or ",
-                    "p_2": "circumstances.",
-                    "p_3": "Since we have been in government there have been improvements, for example, same sex marriages are now legal.",
-                    "p_4": "We will:",
-                    "ul_5": "<li class=\"c2 c3\">Update laws about your information on the internet (websites).</li><li class=\"c2 c3\">Make sure people can say what they think.</li><li class=\"c2 c3\">Stop the police being rough and discrimination in the criminal justice system. </li><li class=\"c2 c3\">Give more Black, Asian and Minority Ethnic people police officer jobs.</li><li class=\"c2 c3\">Stop homophobic bullying.</li><li class=\"c2 c3\">Make big companies tell us what they pay men and women.</li>"
-                },
-                "Immigration": {
-                    "p_0": "We believe we should know who is coming into the country. And only the right people are allowed in.",
-                    "p_1": "Britain needs more students and visitors to help our economy grow. ",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c2 c3\">Have good checks so we know who is coming into and leaving the country.</li><li class=\"c2 c3\">Encourage migrants to improve their language skills. </li><li class=\"c2 c3\">Make sure that migrants learn English if they claim benefits.</li><li class=\"c2 c3\">Stop immigrants being locked up – only criminal immigrants who are waiting to be deported will be locked up.</li>"
-                },
-                "Crime": {
-                    "p_0": "We think that locking more people up in prison is expensive and will not reduce crime.",
-                    "p_1": "We think we need to look at the causes of crime.",
-                    "p_2": "Since we have been in government crime has fallen to the lowest it has ever been.",
-                    "p_3": "We will:",
-                    "ul_4": "<li class=\"c2 c3\">Make sure we know how the police are doing their job.</li><li class=\"c2 c3\">Have more money to pay for police by stopping Police and Crime Commissioners.</li><li class=\"c2 c3\">Stop people going to prison if their only offence is being a drug user. We will create programmes to help drug users.</li><li class=\"c2 c3\">Change prisons so they try to stop criminals committing crimes again. </li>"
-                },
-                "Political reform": {
-                    "p_0": "Democracy is about how the country is run and how we choose the government.",
-                    "p_1": "We believe that change is needed so you can have more say in who runs the country.",
-                    "p_2": "Since we have been in government more power has been given to local areas in England and to the Governments of Scotland, Wales and Northern Ireland to run things for themselves. ",
-                    "p_3": "We will:",
-                    "ul_4": "<li class=\"c2 c3\">Give more power to Scotland, Wales and Northern Ireland.</li><li class=\"c2 c3\">Give everyone more of a say in how things are done in their community and about how their services work.</li><li class=\"c2 c3\">Make sure a political party can not have a donation of more than £10000.</li><li class=\"c2 c3\">Let people vote in elections when they are 16 years old.</li><li class=\"c2 c3\">Make sure that everyone who is in the House of Lords has been elected to be there.</li>"
-                },
-                "Being part of Europe": {
-                    "p_0": "Liberal Democrats want Britain to remain a member of the EU because we are fighting for a stronger economy and British jobs. ",
-                    "p_1": "We will:",
-                    "ul_2": "<li class=\"c2 c3\">Concentrate on the things that the EU is good at. For example, making jobs, protecting the environment and reducing crime.</li><li class=\"c2 c3\">Make sure that migrants from the EU come to work or study and not to claim benefits.</li>"
-                },
-                "A global future": {
-                    "p_0": "This is about how Britain works with the rest of the world.",
-                    "p_1": "We believe that Britain should be part of making the world a better place for everyone.",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c2 c3\">Look into how the armed forces are working and what help and support they need. The armed forces are the army, navy and royal air force.</li><li class=\"c2 c3\">Campaign to end Female Genital Mutilation (FGM) across the world.</li><li class=\"c2 c3\">Reduce the Trident programme. Trident is the name for the British nuclear weapon system.</li><li class=\"c2 c3\">Have harder rules when selling weapons and military technology and equipment.</li>"
-                }
+            "Intro": {
+                "p_0": "We believe in everyone. Liberal Democrats do not exclude anyone.",
+                "p_1": "The Liberal Democrats have worked in government since 2010 and we have made Britain’s economy better.",
+                "p_2": "Since 2010 we have:",
+                "ul_3": "<li class=\"c2 c3\">Increased Britain’s growth.</li><li class=\"c2 c3\">Made more job opportunities for people.</li><li class=\"c2 c3\">Reduce the amount of money the government borrows.</li>",
+                "p_4": "Our top 5 priorities:",
+                "ol_5": "<li class=\"c2 c3\">Secure economy: Have a strong economy and reduce the amount of money the government borrows.</li><li class=\"c2 c3\">Fair taxes: Let people earn £12,500 tax free.</li><li class=\"c2 c3\">Quality health care for all: Spend £8 billion to improve our NHS and guarantee equal care for mental health.</li><li class=\"c2 c3\">Opportunity for every child: Guarantee education funding from nursery to 19 and qualified teachers in every class.</li><li class=\"c2 c3\">Protect the environment: Protect nature and fight climate change.</li>"
+            },
+            "The economy": {
+                "p_0": "People buy things like food and clothes and sell things like cars and houses.",
+                "p_1": "Businesses buy and sell things. For example, a business that makes washing machines buys the parts for the machines and then sells the finished washing machines.",
+                "p_2": "The banks look after our savings and lend us and businesses money.",
+                "p_3": "How all this works together is called the economy.",
+                "p_4": "There are lots of problems in the world with money. The economies of many countries are not working well.",
+                "p_5": "Since we have been in government the economy has got better and is now stronger. ",
+                "p_6": "We will:",
+                "ul_7": "<li class=\"c2 c3\">Reduce the amount of money the government borrows and make sure they do not borrow money to pay for public services.</li><li class=\"c2 c3\">Make new rules so that banks have to pay Tax to help the government reduce the amount of money the government borrows.</li><li class=\"c2 c3\">Make sure that Britain spends money on transport and looking after the environment.</li>"
+            },
+            "Living standards": {
+                "p_0": "We want everyone to have enough money to live a good life.",
+                "p_1": "It is about everyone who can work having a job and paying fair Tax.",
+                "p_2": "Since we have been in government people on low to middle incomes pay less tax.",
+                "p_3": "We will:",
+                "ul_4": "<li class=\"c2 c3\">Let people earn £12,500 tax free.</li><li class=\"c2 c3\">Charge more Tax for houses that cost more than £2 million.</li><li class=\"c2 c3\">Make sure people and businesses pay their Tax. </li>"
+            },
+            "Education": {
+                "p_0": "We think children should have good education.",
+                "p_1": "Since we have been in government there have been improvements, for example, there is more money for children who need the most help.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c2 c3\">Make sure that all teachers are qualified and teach the National Curriculum.</li><li class=\"c2 c3\">Spend more money on childcare, schools and education for 16 to 19 year olds.</li><li class=\"c2 c3\">Have more free nursery places for children.</li><li class=\"c2 c3\">Make sure every child can read by the time they go to secondary school.</li>"
+            },
+            "Health": {
+                "p_0": "We want healthcare to be good and available to people for free when they need it.",
+                "p_1": "Since we have been in government there has been improvements, for example, health and social care has been joined up so people with long term conditions get the right help.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c2 c3\">Spend £8 billon on the NHS to keep it strong.</li><li class=\"c2 c3\">Spend £500 million a year to make mental health care better.</li><li class=\"c2 c3\">Provide support to carers and give them a £250 bonus every year.</li><li class=\"c2 c3\">Stop bad care happening and support better pay and conditions for care staff.</li>"
+            },
+            "A green future for Britain": {
+                "p_0": "We think we should look after the environment.",
+                "p_1": "Since we have been in government Britain has become the greenest it has ever been.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c2 c3\">Increase how much renewable energy is made.</li><li class=\"c2 c3\">Find out about green energy resources.</li><li class=\"c2 c3\">Reduce council tax if you insulate your home.</li><li class=\"c2 c3\">Stop landlords from letting out homes that people can not afford to heat.</li><li class=\"c2 c3\">Make energy companies offer a better service if people want to change supplier and save money.</li>"
+            },
+            "Environment": {
+                "p_0": "We think we need to look after the natural environment and reduce the rubbish we make.",
+                "p_1": "Since we have been in government 1 million trees have been planted and there is a plan to protect bees and insects.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c2 c3\">Take care of England’s forests. By stopping them being sold and planting a tree for every child who is born.</li><li class=\"c2 c3\">Give people easier access to nature.</li><li class=\"c2 c3\">Have targets so we all have to protect nature and reduce our waste.</li>"
+            },
+            "Work": {
+                "p_0": "We think everyone should have the chance to get a job, be paid fairly and have a better life.",
+                "p_1": "Since we have been in government more jobs have been created which means there are more opportunities for people. ",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c2 c3\">Increase the minimum wage and pay people who work for the government the Living Wage.</li><li class=\"c2 c3\">Make sure that working means you will earn more money than you get on benefits.</li><li class=\"c2 c3\">Link up with local businesses to help more people into jobs.</li><li class=\"c2 c3\">Give fathers the chance to have more paternity leave.</li><li class=\"c2 c3\">Look at giving carers the chance to have leave.</li>"
+            },
+            "Young people": {
+                "p_0": "We think every young person should have the opportunity to be the best they can.",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c2 c3\">Double the numbers of businesses who take on apprentices.</li><li class=\"c2 c3\">Reduce travel costs so young people can get to school and work. </li><li class=\"c2 c3\">Spend more money on mental health services so young people get help closer to their home.</li>"
+            },
+            "Pensions": {
+                "p_0": "We think the way that older people are treated shows how fair society is.",
+                "p_1": "Since we have been in government people have choice about their pensions and 5 million people have joined a workplace pension.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c2 c3\">Make sure 9 million people join a workplace pensions.</li><li class=\"c2 c3\">Make pensions better so more people have one.</li><li class=\"c2 c3\">Change laws so pensions go up in value.</li>"
+            },
+            "Housing": {
+                "p_0": "There are not enough houses In Britain.",
+                "p_1": "This means that house prices and rent is expensive and people can not afford to buy their own house.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c2 c3\">Build 300,000 new energy efficient homes a year and 10 new Garden Cities.</li><li class=\"c2 c3\">Help working people buy their first home for the same cost as renting. The rent that people pay will buy a share in the house they live in.</li><li class=\"c2 c3\">Help young people rent a house by giving a loan for a deposit.</li>"
+            },
+            "Equality": {
+                "p_0": "We think that people have the right to privacy and to say what they think.",
+                "p_1": "We believe everybody should be treated the same whatever their background or circumstances.",
+                "p_2": "Since we have been in government there have been improvements, for example, same sex marriages are now legal.",
+                "p_3": "We will:",
+                "ul_4": "<li class=\"c2 c3\">Update laws about your information on the internet (websites).</li><li class=\"c2 c3\">Make sure people can say what they think.</li><li class=\"c2 c3\">Stop the police being rough and discrimination in the criminal justice system. </li><li class=\"c2 c3\">Give more Black, Asian and Minority Ethnic people police officer jobs.</li><li class=\"c2 c3\">Stop homophobic bullying.</li><li class=\"c2 c3\">Make big companies tell us what they pay men and women.</li>"
+            },
+            "Immigration": {
+                "p_0": "We believe we should know who is coming into the country. And only the right people are allowed in.",
+                "p_1": "Britain needs more students and visitors to help our economy grow. ",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c2 c3\">Have good checks so we know who is coming into and leaving the country.</li><li class=\"c2 c3\">Encourage migrants to improve their language skills. </li><li class=\"c2 c3\">Make sure that migrants learn English if they claim benefits.</li><li class=\"c2 c3\">Stop immigrants being locked up – only criminal immigrants who are waiting to be deported will be locked up.</li>"
+            },
+            "Crime": {
+                "p_0": "We think that locking more people up in prison is expensive and will not reduce crime.",
+                "p_1": "We think we need to look at the causes of crime.",
+                "p_2": "Since we have been in government crime has fallen to the lowest it has ever been.",
+                "p_3": "We will:",
+                "ul_4": "<li class=\"c2 c3\">Make sure we know how the police are doing their job.</li><li class=\"c2 c3\">Have more money to pay for police by stopping Police and Crime Commissioners.</li><li class=\"c2 c3\">Stop people going to prison if their only offence is being a drug user. We will create programmes to help drug users.</li><li class=\"c2 c3\">Change prisons so they try to stop criminals committing crimes again. </li>"
+            },
+            "Political reform": {
+                "p_0": "Democracy is about how the country is run and how we choose the government.",
+                "p_1": "We believe that change is needed so you can have more say in who runs the country.",
+                "p_2": "Since we have been in government more power has been given to local areas in England and to the Governments of Scotland, Wales and Northern Ireland to run things for themselves. ",
+                "p_3": "We will:",
+                "ul_4": "<li class=\"c2 c3\">Give more power to Scotland, Wales and Northern Ireland.</li><li class=\"c2 c3\">Give everyone more of a say in how things are done in their community and about how their services work.</li><li class=\"c2 c3\">Make sure a political party can not have a donation of more than £10000.</li><li class=\"c2 c3\">Let people vote in elections when they are 16 years old.</li><li class=\"c2 c3\">Make sure that everyone who is in the House of Lords has been elected to be there.</li>"
+            },
+            "Being part of Europe": {
+                "p_0": "Liberal Democrats want Britain to remain a member of the EU because we are fighting for a stronger economy and British jobs. ",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c2 c3\">Concentrate on the things that the EU is good at. For example, making jobs, protecting the environment and reducing crime.</li><li class=\"c2 c3\">Make sure that migrants from the EU come to work or study and not to claim benefits.</li>"
+            },
+            "A global future": {
+                "p_0": "This is about how Britain works with the rest of the world.",
+                "p_1": "We believe that Britain should be part of making the world a better place for everyone.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c2 c3\">Look into how the armed forces are working and what help and support they need. The armed forces are the army, navy and royal air force.</li><li class=\"c2 c3\">Campaign to end Female Genital Mutilation (FGM) across the world.</li><li class=\"c2 c3\">Reduce the Trident programme. Trident is the name for the British nuclear weapon system.</li><li class=\"c2 c3\">Have harder rules when selling weapons and military technology and equipment.</li>"
             }
         }
+    },
     {
         "name": "Labour",
         "data": {
-                "Intro": {
-                    "p_0": "If Labour wins the election they promise to do 5 things to make the UK better. ",
-                    "p_1": "These are:"
-                },
-                "1. We will make sure the UK has a strong economy": {
-                    "p_0": "We will do this by:",
-                    "ul_1": "<li class=\"c3\">Not spending more money than we have.</li><li class=\"c3\">Reducing our debt.</li>"
-                },
-                "2. We will make life better for working families": {
-                    "p_0": "We will do this by:",
-                    "ul_1": "<li class=\"c3\">Stopping energy bills costing more money until 2017.</li><li class=\"c3\">Stopping 0 hour contracts if they are being used unfairly.</li><li class=\"c3\">Putting the minimum wage up to £8 per hour.</li><li class=\"c3\">Giving 25 hours free childcare.</li>"
-                },
-                "3. We will make the NHS better": {
-                    "p_0": "We will do this by:",
-                    "ul_1": "<li class=\"c3\">Having 20,000 more nurses and 8,000 more GPs.</li><li class=\"c3\">Linking up services from home to hospital.</li><li class=\"c3\">Making GP appointments available within 48 hours.</li><li class=\"c3\">Making sure people have cancer tests within 1 week.</li>"
-                },
-                "4. There will be controls on immigration": {
-                    "p_0": "We will do this by:",
-                    "ul_1": "<li class=\"c3\">Only letting people who come to live in the UK claim benefits after 2 years.</li><li class=\"c3\">Making new rules so employers can not reduce wages by taking advantage of workers.</li>"
-                },
-                "5. We will give young people better opportunities": {
-                    "p_0": "We will do this by:",
-                    "ul_1": "<li class=\"c3\">Reducing university fees to £6,000 per year.</li><li class=\"c3\">Offering apprenticeships to everyone who leaves school with at least the basic grades.</li><li class=\"c3\">Making class sizes smaller for children aged 5 to 7 years old.</li>"
-                }
+            "1. We will make sure the UK has a strong economy": {
+                "p_0": "We will do this by:",
+                "ul_1": "<li class=\"c3\">Not spending more money than we have.</li><li class=\"c3\">Reducing our debt.</li>"
+            },
+            "2. We will make life better for working families": {
+                "p_0": "We will do this by:",
+                "ul_1": "<li class=\"c3\">Stopping energy bills costing more money until 2017.</li><li class=\"c3\">Stopping 0 hour contracts if they are being used unfairly.</li><li class=\"c3\">Putting the minimum wage up to £8 per hour.</li><li class=\"c3\">Giving 25 hours free childcare.</li>"
+            },
+            "3. We will make the NHS better": {
+                "p_0": "We will do this by:",
+                "ul_1": "<li class=\"c3\">Having 20,000 more nurses and 8,000 more GPs.</li><li class=\"c3\">Linking up services from home to hospital.</li><li class=\"c3\">Making GP appointments available within 48 hours.</li><li class=\"c3\">Making sure people have cancer tests within 1 week.</li>"
+            },
+            "4. There will be controls on immigration": {
+                "p_0": "We will do this by:",
+                "ul_1": "<li class=\"c3\">Only letting people who come to live in the UK claim benefits after 2 years.</li><li class=\"c3\">Making new rules so employers can not reduce wages by taking advantage of workers.</li>"
+            },
+            "5. We will give young people better opportunities": {
+                "p_0": "We will do this by:",
+                "ul_1": "<li class=\"c3\">Reducing university fees to £6,000 per year.</li><li class=\"c3\">Offering apprenticeships to everyone who leaves school with at least the basic grades.</li><li class=\"c3\">Making class sizes smaller for children aged 5 to 7 years old.</li>"
             }
         }
+    },
     {
         "name": "Conservative",
         "data": {
-                "Intro": {
-                    "p_0": "In the last 5 years we have made Britain strong again. ",
-                    "p_1": "We can be proud of what we have done. ",
-                    "p_2": "We made hard choices about how we spent our money. ",
-                    "p_3": "If the Conservative Party wins the election we will keep making Britain better. "
-                },
-                "A Conservative Government will:": {
-                    "ol_0": "<li class=\"c1\">Be strong leaders of Britain. </li><li class=\"c1\">Keep making the economy better. </li><li class=\"c1\">Make a better future for you and your family</li>"
-                },
-                "The Economy": {
-                    "p_0": " ",
-                    "p_1": "5 years ago the economy was not working well.",
-                    "p_2": " ",
-                    "p_3": "Since we have been in government the economy has got better and is now stronger.",
-                    "p_4": " ",
-                    "p_5": "This means the Government can afford to make the country a better place to live.",
-                    "p_6": " ",
-                    "p_7": "People have more money to buy the things they need.",
-                    "p_8": "Businesses can grow and give people jobs.",
-                    "p_9": "How all this works together is called the economy.",
-                    "p_10": "We need a strong economy so that people can do things such as buy their own home and have free access to hospitals.",
-                    "p_11": " ",
-                    "p_12": "That is why it is important that we stick to our current plan for the next 5 years.",
-                    "p_13": " ",
-                    "p_14": "We will:",
-                    "ul_15": "<li class=\"c1\">Stop borrowing money.</li><li class=\"c1\">Spend more money on the NHS.</li><li class=\"c1\">Help make 2 million new jobs.</li><li class=\"c1\">Build 200,000 new homes for first time buyers.</li><li class=\"c1\">Cut Income Tax for 30 million people.</li><li class=\"c1\">Make sure the benefits system is fair and helps the people who need it.</li>"
-                },
-                "Health": {
-                    "p_0": " ",
-                    "p_1": "The NHS is important to all of us.",
-                    "p_2": " ",
-                    "p_3": "We will:",
-                    "ul_4": "<li class=\"c1\">Keep spending money on the NHS. We will spend at least £8 billion more by 2020 to keep it good.</li><li class=\"c1\">Make sure you can see a doctor 7 days a week by 2020.</li><li class=\"c1\">Make sure you can get an appointment to see your doctor on the same day if you are over 75 years old.</li>",
-                    "ul_5": "<li class=\"c1\"> </li>",
-                    "p_6": "More about health",
-                    "ul_7": "<li class=\"c1\">We want the UK to reduce the number of people who have cancer and find a cure for dementia.</li><li class=\"c1\">We want to join up health and social care. </li>",
-                    "p_8": " "
-                },
-                "Education": {
-                    "p_0": " ",
-                    "p_1": "Every child should have the best start in life and be able to have a good education.",
-                    "p_2": " ",
-                    "p_3": "We will:",
-                    "p_4": " ",
-                    "ul_5": "<li class=\"c1\">Make sure every child has a place at a good primary school.</li><li class=\"c1\">Make bad schools into good schools.</li><li class=\"c1\">Make free schools for parents and communities that want them.</li><li class=\"c1\">Look after the money schools get.</li>",
-                    "ul_6": "<li class=\"c1\"> </li>",
-                    "p_7": "More about education",
-                    "ul_8": "<li class=\"c1\">We want all schools to support children with special educational needs.</li><li class=\"c1\">We want to make sure Ofsted make schools as good as possible.</li><li class=\"c1\">We want every young person to have a place at University if they want one.</li>",
-                    "p_9": " ",
-                    "p_10": " ",
-                    "p_11": "Work",
-                    "p_12": " ",
-                    "p_13": "We think good jobs give families security.",
-                    "p_14": " ",
-                    "p_15": "We have made 1000 jobs every day since 2010 but we need to do more.",
-                    "p_16": " ",
-                    "p_17": "We will:",
-                    "ul_18": "<li class=\"c1\">Make 3 million new apprenticeships.</li><li class=\"c1\">Help businesses make 2 million new jobs.</li><li class=\"c1\">Increase the National Minimum Wage and let people earn more before they pay Income Tax.</li>",
-                    "ul_19": "<li class=\"c1\"> </li>",
-                    "p_20": "More about work",
-                    "ul_21": "<li class=\"c1\">We do not want anyone who earns less than £12,500 per year to pay Income Tax.</li><li class=\"c1\">We do not want anybody who works 30 hours a week on the Minimum Wage to pay Income Tax.</li>",
-                    "p_22": " ",
-                    "p_23": " "
-                },
-                "Welfare": {
-                    "p_0": " ",
-                    "p_1": "We believe people should be rewarded if they work hard and do not claim benefits when they do not need them.",
-                    "p_2": " ",
-                    "p_3": "We think that we need to look after the most vulnerable people in our society.",
-                    "p_4": " ",
-                    "p_5": "Benefits will always be available for people who need them.",
-                    "p_6": " ",
-                    "p_7": "We will:",
-                    "ul_8": "<li class=\"c1\">Make sure we can control the amount of money the UK spends on benefits.</li><li class=\"c1\">Reduce the amount of money people can claim if they are on Household Benefit.</li><li class=\"c1\">Makesurethatworkingmeansyouwill earn more money than you get on benefits.</li>",
-                    "ul_9": "<li class=\"c1\"> </li>",
-                    "p_10": "More about welfare",
-                    "ul_11": "<li class=\"c1\">We want to help people on benefits to find a job.</li><li class=\"c1\">The number of disabled people in work has increased but we need to do more. </li>"
-                },
-                "Families": {
-                    "p_0": " ",
-                    "p_1": "We believe family is very important because it makes our society stronger.",
-                    "p_2": " ",
-                    "p_3": "We think everyone should feel cared for and safe when they are older.",
-                    "p_4": " ",
-                    "p_5": "We will:",
-                    "ul_6": "<li class=\"c1\">Give 30 hours free childcare a week to parents who have a job and children aged 3 and 4 years old.</li><li class=\"c1\">We will not increase the VAT, Income Tax or National Insurance.</li><li class=\"c1\">Increase people’s Pension.</li><li class=\"c1\">Haveamaximumcostforresidentialcare and protect pensioners’ benefits.</li>",
-                    "ul_7": "<li class=\"c1\"> </li>",
-                    "p_8": "More on families ",
-                    "ul_9": "<li class=\"c1\">We will let eligible couples move £1060 of their tax-free income to their husband or wife.</li><li class=\"c1\">We will help families stay together by spending a minimum of £7.5 million a year on relationship support.</li>"
-                },
-                "Human Rights": {
-                    "p_0": " ",
-                    "p_1": "We think everyone has equal rights and people should feel safe.",
-                    "p_2": " ",
-                    "p_3": "We will:",
-                    "ul_4": "<li class=\"c1\">Have laws so dangerous criminals are kept off the streets.</li><li class=\"c1\">Give support to crime victims.</li><li class=\"c1\">Make sure hate crime laws work well and that people report hate crime.</li><li class=\"c1\">We will remove the Human Rights Act and make a British Bill of Rights.</li><li class=\"c1\">This means a British Court will make decisions about the rights of people in the UK and not a European one. </li>"
-                }
+            "Intro": {
+                "p_0": "In the last 5 years we have made Britain strong again. ",
+                "p_1": "We can be proud of what we have done. ",
+                "p_2": "We made hard choices about how we spent our money. ",
+                "p_3": "If the Conservative Party wins the election we will keep making Britain better. ",
+                "p_4": "A Conservative Government will:",
+                "ol_5": "<li class=\"c1\">Be strong leaders of Britain. </li><li class=\"c1\">Keep making the economy better. </li><li class=\"c1\">Make a better future for you and your family</li>"
+            },
+            "The Economy": {
+                "p_0": "5 years ago the economy was not working well.",
+                "p_1": "Since we have been in government the economy has got better and is now stronger.",
+                "p_2": "This means the Government can afford to make the country a better place to live.",
+                "p_3": "People have more money to buy the things they need.",
+                "p_4": "Businesses can grow and give people jobs.",
+                "p_5": "How all this works together is called the economy.",
+                "p_6": "We need a strong economy so that people can do things such as buy their own home and have free access to hospitals.",
+                "p_7": "That is why it is important that we stick to our current plan for the next 5 years.",
+                "p_8": "We will:",
+                "ul_9": "<li class=\"c1\">Stop borrowing money.</li><li class=\"c1\">Spend more money on the NHS.</li><li class=\"c1\">Help make 2 million new jobs.</li><li class=\"c1\">Build 200,000 new homes for first time buyers.</li><li class=\"c1\">Cut Income Tax for 30 million people.</li><li class=\"c1\">Make sure the benefits system is fair and helps the people who need it.</li>"
+            },
+            "Health": {
+                "p_0": "The NHS is important to all of us.",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c1\">Keep spending money on the NHS. We will spend at least £8 billion more by 2020 to keep it good.</li><li class=\"c1\">Make sure you can see a doctor 7 days a week by 2020.</li><li class=\"c1\">Make sure you can get an appointment to see your doctor on the same day if you are over 75 years old.</li><li class=\"c1\">We want the UK to reduce the number of people who have cancer and find a cure for dementia.</li><li class=\"c1\">We want to join up health and social care. </li>"
+            },
+            "Education": {
+                "p_0": "Every child should have the best start in life and be able to have a good education.",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c1\">Make sure every child has a place at a good primary school.</li><li class=\"c1\">Make bad schools into good schools.</li><li class=\"c1\">Make free schools for parents and communities that want them.</li><li class=\"c1\">Look after the money schools get.</li><li class=\"c1\">We want all schools to support children with special educational needs.</li><li class=\"c1\">We want to make sure Ofsted make schools as good as possible.</li><li class=\"c1\">We want every young person to have a place at University if they want one.</li>"
+            },
+            "Work": {
+                "p_0": "We think good jobs give families security.",
+                "p_1": "We have made 1000 jobs every day since 2010 but we need to do more.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c1\">Make 3 million new apprenticeships.</li><li class=\"c1\">Help businesses make 2 million new jobs.</li><li class=\"c1\">Increase the National Minimum Wage and let people earn more before they pay Income Tax.</li><li class=\"c1\">We do not want anyone who earns less than £12,500 per year to pay Income Tax.</li><li class=\"c1\">We do not want anybody who works 30 hours a week on the Minimum Wage to pay Income Tax.</li>"
+            },
+            "Welfare": {
+                "p_0": "We believe people should be rewarded if they work hard and do not claim benefits when they do not need them.",
+                "p_1": "We think that we need to look after the most vulnerable people in our society.",
+                "p_2": "Benefits will always be available for people who need them.",
+                "p_3": "We will:",
+                "ul_4": "<li class=\"c1\">Make sure we can control the amount of money the UK spends on benefits.</li><li class=\"c1\">Reduce the amount of money people can claim if they are on Household Benefit.</li><li class=\"c1\">Makesurethatworkingmeansyouwill earn more money than you get on benefits.</li><li class=\"c1\">We want to help people on benefits to find a job.</li><li class=\"c1\">The number of disabled people in work has increased but we need to do more. </li>"
+            },
+            "Families": {
+                "p_0": "We believe family is very important because it makes our society stronger.",
+                "p_1": "We think everyone should feel cared for and safe when they are older.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c1\">Give 30 hours free childcare a week to parents who have a job and children aged 3 and 4 years old.</li><li class=\"c1\">We will not increase the VAT, Income Tax or National Insurance.</li><li class=\"c1\">Increase people’s Pension.</li><li class=\"c1\">Haveamaximumcostforresidentialcare and protect pensioners’ benefits.</li><li class=\"c1\">We will let eligible couples move £1060 of their tax-free income to their husband or wife.</li><li class=\"c1\">We will help families stay together by spending a minimum of £7.5 million a year on relationship support.</li>"
+            },
+            "Human Rights": {
+                "p_0": "We think everyone has equal rights and people should feel safe.",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c1\">Have laws so dangerous criminals are kept off the streets.</li><li class=\"c1\">Give support to crime victims.</li><li class=\"c1\">Make sure hate crime laws work well and that people report hate crime.</li><li class=\"c1\">We will remove the Human Rights Act and make a British Bill of Rights.</li><li class=\"c1\">This means a British Court will make decisions about the rights of people in the UK and not a European one. </li>"
             }
         }
+    },
     {
         "name": "Green",
         "data": {
-                "Intro": {
-                    "p_0": "We believe people working together to get the best for everyone. We call this the common good. ",
-                    "p_1": "The Green Party would work for:",
-                    "ul_2": "<li class=\"c1 c4\">Friendly public services.</li><li class=\"c1 c4\">Action to stop the climate and weather from getting worse.</li><li class=\"c1 c4\">Fairness for everyone.</li><li class=\"c1 c4\">Helping local people and local businesses.</li>",
-                    "p_3": "Things have been going wrong in our country:",
-                    "ul_4": "<li class=\"c1 c4\">We have been encouraged to compete against each other instead of working together.</li><li class=\"c1 c4\">The rich have been getting richer and the poor have been getting poorer.</li><li class=\"c1 c4\">We have been polluting our world so the climate is changing and the weather is likely to get worse and worse.</li><li class=\"c1 c4\">Too many of our public services have been given to private companies, so people don’t have a say in how they are run. </li>",
-                    "p_5": "We want a green and democratic country where people can have a say in how things are run.",
-                    "p_6": "We want a health service which is run by the NHS and not private companies. ",
-                    "p_7": "A decent living",
-                    "p_8": "We are told that the amount of money and business in the country is growing. But it is not being shared properly:",
-                    "ul_9": "<li class=\"c1 c4\">More than one in four children are growing up in poverty.</li><li class=\"c1 c4\">The bosses of the biggest companies earn more than 100 times more than their staff.</li><li class=\"c1 c4\">Nearly 1,000,000 people have gone to food banks for food.</li><li class=\"c1 c4\">The wages of the top managers have gone up very much faster than everyone else. </li>",
-                    "p_10": "It’s not just poor people.",
-                    "p_11": "Families on ordinary wages are facing a real squeeze as prices go up and wages stay the same.",
-                    "p_12": "The Green Party believes that how we share the money is more important than just getting more and more money for the better off. ",
-                    "p_13": "We don’t have to cut services. ",
-                    "p_14": "The Green Party believes that we don’t have to cut services.",
-                    "p_15": "Instead we need to:",
-                    "ul_16": "<li class=\"c1 c4\">Create good jobs.</li><li class=\"c1 c4\">Make electricity in ways that does not harm the climate and weather.</li><li class=\"c1 c4\">Protect the natural world.</li><li class=\"c1 c4\">Make things fairer and safer for all people.</li><li class=\"c1 c4\">Health, education, and trains should be run as a public service, not by private companies.</li><li class=\"c1 c4\">Support people who cannot work to live in dignity </li>"
-                },
-                "The Earth": {
-                    "p_0": "We must protect the earth. ",
-                    "p_1": "None of us can live without it.",
-                    "p_2": "The way we are living on the planet is causing:",
-                    "ul_3": "<li class=\"c1 c4\">Many types of living things to die out.</li><li class=\"c1 c4\">More and more pollution is causing the climate and weather to change.</li>"
-                },
-                "The Countryside": {
-                    "p_0": "We need to:",
-                    "ul_1": "<li class=\"c1 c4\">Protect and look after our countryside.</li><li class=\"c1 c4\">Stop building on green spaces.</li><li class=\"c1 c4\">Reduce the amounts of chemicals we put on fields .</li><li class=\"c1 c4\">Improve the quality of our water supply.</li><li class=\"c1 c4\">Try to make sure that everyone lives within 5 minutes walk of a Green Open Space. </li>"
-                },
-                "Animals": {
-                    "p_0": "We need to look after animals better by:",
-                    "ul_1": "<li class=\"c1 c4\">Keeping the ban on hunting with dogs and banning any kind of hunting animals for sport or pleasure.</li><li class=\"c1 c4\">Ending the Badger cull.</li><li class=\"c1 c4\">Stop experiments on animals except to find new cures for diseases.</li>"
-                },
-                "Food and Farming": {
-                    "p_0": "We need to make sure that:",
-                    "ul_1": "<li class=\"c1 c4\">Good food is available at prices that people can afford.</li><li class=\"c1 c4\">There is enough food for everyone.</li><li class=\"c1 c4\">Farmers look after the countryside and treat animals well </li>"
-                },
-                "Waste and recycling": {
-                    "p_0": "We need to look after the earth better by being careful what we throw away.",
-                    "p_1": "We should:",
-                    "ul_2": "<li class=\"c1 c4\">Reduce how much stuff we use.</li><li class=\"c1 c4\">Reuse things when we have finished with them.</li><li class=\"c1 c4\">Recycle or find another way to use things when we have finished using them.</li>"
-                },
-                "Energy and the climate": {
-                    "p_0": "We have been creating energy like electricity and transport by burning coal, oil and gas for many years.",
-                    "p_1": "This has caused pollution which is now causing changes to our climate and weather.",
-                    "p_2": "We need to find new ways to create electricity and to power our transport that does not harm the planet. ",
-                    "p_3": "The Green Party would:",
-                    "ul_4": "<li class=\"c1 c4\">Spend a lot of money so we can create the electricity we need from wind, the sun, the tides and from crops we have grown.</li><li class=\"c1 c4\">Provide free insulation to 9 million homes so they keep warm for less money.</li><li class=\"c1 c4\">Build new homes to a high standard that are cheap to heat.</li><li class=\"c1 c4\">Make it easier for people and communities to make their own electricity so they won’t have to pay big bills to companies.</li><li class=\"c1 c4\">Give more money to local councils so they can protect communities against flooding.</li>"
-                },
-                "Equality": {
-                    "p_0": "Equality is about being fair to everyone and giving everyone a chance to make the most of their lives.",
-                    "p_1": "Countries that are more equal are happier countries.",
-                    "p_2": "The Green Party will tackle the problems of inequality like:",
-                    "ul_3": "<li class=\"c1 c4\">Hate crime against disabled people and people with mental health problems</li><li class=\"c1 c4\">The widening gap between rich and poor.</li><li class=\"c1 c4\">Racism.</li><li class=\"c1 c4\">Violence against women.</li><li class=\"c1 c4\">The pay gap between men and women.</li><li class=\"c1 c4\">Discrimination against people who are Gay, Lesbian, Bisexual, Transgender, Intersex and Queer and many other issues. </li>",
-                    "p_4": "For disabled people we will:",
-                    "ul_5": "<li class=\"c1 c4\">Get rid of ATOS and get doctors to decide if people are fit for work.</li><li class=\"c1 c4\">Increase the carers allowance by 50%.</li><li class=\"c1 c4\">Make sure disabled people get their rights in education, childcare, healthcare and in the benefits system.</li>",
-                    "p_6": "For younger people we would:",
-                    "ul_7": "<li class=\"c1 c4\">Double the money for young people’s services.</li><li class=\"c1 c4\">Create 2000 Young people’s centres where young people can meet and be creative.</li><li class=\"c1 c4\">Make public transport free for young people.</li>",
-                    "p_8": "For older people we would:",
-                    "ul_9": "<li class=\"c1 c4\">Provide free social care.</li><li class=\"c1 c4\">Provide free prescriptions.</li><li class=\"c1 c4\">Get rid of the TV licence</li>"
-                },
-                "Health and well-being": {
-                    "p_0": "The Green Party believes that health care should not be bought and sold. ",
-                    "p_1": "We want the NHS to be:",
-                    "ul_2": "<li class=\"c1 c4\">Free for everyone.</li><li class=\"c1 c4\">Paid for by the government not by patients.</li><li class=\"c1 c4\">Run by the NHS and not private companies.</li>",
-                    "p_3": "We would bring local health services under the control of local councils, so people will be able to have a say in what local health services they want. ",
-                    "p_4": "We would get rid of the way that one health trust pays for services from another health trust. This would save a lot of money in administration which could be used to pay for more doctors and nurses.",
-                    "p_5": "We would put a lot of money into the health service and then increase the amount of money year on year to take account of the increase in numbers of older people.",
-                    "p_6": "We would work to help people live healthy lives. We would:",
-                    "ul_7": "<li class=\"c1 c4\">Tackle air pollution which causes problems for thousands of people.</li><li class=\"c1 c4\">Make healthy food less expensive while making unhealthy food more expensive.</li>"
-                },
-                "Mental Health": {
-                    "p_0": "We will work to improve mental health services. We will:",
-                    "ul_1": "<li class=\"c1 c4\">Spend a lot more money on mental health services.</li><li class=\"c1 c4\">Make sure that no-one has to wait more than 14 days to see a mental health professional.</li><li class=\"c1 c4\">Make sure that everyone who is having a mental health crisis can get quick treatment.</li>"
-                },
-                "Education": {
-                    "Early years": {
-                        "p_0": "The first few years are very important for the child and the parents. ",
-                        "p_1": "The Green Party would build a free early education and childcare service for all children from birth to age 7 which would be the new age to start school."
-                    },
-                    "Schools": {
-                        "p_0": "The Green Party thinks that children have to take too many tests which is boring for both the pupil and the teacher. ",
-                        "p_1": "We want children to learn all subjects in a way that lets them be creative.",
-                        "p_2": "Instead of being in competition we would bring schools back within the local council so they can work together to provide the best education for all children. ",
-                        "p_3": "We would get rid of SATS tests and League Tables. We would abolish Ofsted which puts too much pressure on teachers. "
-                    }
-                },
-                "Housing": {
-                    "p_0": "Housing has become too expensive. People can’t afford to buy a house or to rent. The Green Party would work to reduce the cost of housing. ",
-                    "p_1": " We would get rid of the bedroom tax and make it easier for people to rent out a spare room if they want to.",
-                    "p_2": "We would build 500,000 affordable socially rented homes.",
-                    "p_3": "We would give more rights to homeless people. We want to end rough sleeping completely."
-                },
-                "Work and tax": {
-                    "p_0": "The Green Party would increase the minimum wage so it is a living wage.",
-                    "p_1": "We want to increase the minimum wage to £10 an hour by 2020. We would end zero hour contracts.",
-                    "p_2": "We would make sure that the highest paid person in any organisation earns no more than 10 times the lowest paid worker.",
-                    "p_3": "The Green Party would work to help small businesses.",
-                    "Tax": {
-                        "p_0": "Tax is an important way that we all help to provide money for the services that everyone needs.",
-                        "p_1": "In Britain we are paying less in tax than other similar countries in Europe.",
-                        "p_2": "We think that there are many people who could afford to pay more so that we can we can have good health and other local services. ",
-                        "p_3": "The Green Party would:",
-                        "ul_4": "<li class=\"c1 c4\">Make sure that rich people and big companies pay the tax that they should.</li><li class=\"c1 c4\">Introduce a wealth tax on the very richest people.</li><li class=\"c1 c4\">Introduce a Robin Hood Tax on the sale of company shares and bonds.</li><li class=\"c1 c4\">Increase the amount of tax on large companies </li>"
-                    }
-                },
-                "Benefits": {
-                    "p_0": "The Green Party thinks that the benefits system is unfair, costs far too much to run, and stops people from finding work.",
-                    "p_1": "We think the time has come to think again about the whole tax and benefits system. "
-                },
-                "Basic income": {
-                    "p_0": "The Green party would plan to make a complete change to the tax and benefit system. We would pay every woman, man and child who is legally allowed to be in the country a basic income which is enough to cover basic needs. ",
-                    "p_1": "Children will receive a reduced basic income: Child benefit.",
-                    "p_2": "Pensioners will receive their basic income as a Citizen’s pension.",
-                    "p_3": "The basic income would:",
-                    "ul_4": "<li class=\"c1 c4\">Save the country lots of money in administration because it is cheap and easy to run.</li><li class=\"c1 c4\">Allow people to earn money without worry about losing their benefit </li>"
-                },
-                "The government and local councils": {
-                    "p_0": "The Green party would make some changes to the way that we choose our government. ",
-                    "p_1": "We would:",
-                    "ul_2": "<li class=\"c1 c4\">Make people who want to be in the house of Lords stand for election.</li><li class=\"c1 c4\">Change the system of voting so that everyone’s vote counts.</li><li class=\"c1 c4\">Move towards equal numbers of men and women in parliament by 2025</li>"
-                },
-                "Local Councils": {
-                    "p_0": "The Green Party would give a lot more money to local councils so that they can restore the local services that have been cut.",
-                    "p_1": "We would also:",
-                    "ul_2": "<li class=\"c1 c4\">Make local councils control schools and health services in their area.</li><li class=\"c1 c4\">Allow local councils to run public transport and other services like bin collection if they want.</li>"
-                },
-                "Culture media and sport": {
-                    "p_0": "The Green Party would encourage people to take part in arts, music and sports. ",
-                    "p_1": "We want more people to be involved, not just watching or listening to it.",
-                    "p_2": "We would get rid of the television licence and pay for the BBC out of general taxes.",
-                    "p_3": "We would work hard to encourage disabled people and people from minority groups to be able to take part in culture and sports."
-                },
-                "Transport": {
-                    "p_0": "We need to move away from people using cars so much. ",
-                    "p_1": "There is too much congestion and pollution.",
-                    "p_2": "The Green party thinks that the priority should be:",
-                    "ol_3": "<li class=\"c1 c4\">Walking and disabled access to all other forms of transport.</li><li class=\"c1 c4\">Cycling.</li><li class=\"c1 c4\">Public transport - buses, trams and trains.</li><li class=\"c1 c4\">Small vans and taxis.</li><li class=\"c1 c4\">Cars.</li><li class=\"c1 c4\">Big lorries.</li><li class=\"c1 c4\">Aircraft </li>",
-                    "p_4": "The Green party would:",
-                    "ul_5": "<li class=\"c1 c4\">Bring the railways back into public hands.</li><li class=\"c1 c4\">Work for affordable public transport accessible for all.</li><li class=\"c1 c4\">Free local transport for pensioners.</li><li class=\"c1 c4\">Free public transport for young people.</li><li class=\"c1 c4\">Make streets healthy and safe for walking.</li>"
-                },
-                "Working with other countries": {
-                    "p_0": "We all live in one world and we need to work together. ",
-                    "p_1": "The Green party would:",
-                    "ul_2": "<li class=\"c1 c4\">Work with other countries to help everyone cut down pollution that causes climate change.</li><li class=\"c1 c4\">Increase the work we do to help people in the very poorest countries overcome deep poverty.</li><li class=\"c1 c4\">Work with other countries to find peaceful ways to solve conflicts.</li>"
-                },
-                "Defence": {
-                    "p_0": "A green government would not threaten any other country but we would make it clear that we would fight back if we are threatened or attacked.",
-                    "p_1": "We would save £100bn by not having nuclear weapons. "
-                },
-                "Crime and punishment": {
-                    "p_0": "Many people end up in our prisons because they have other problems. ",
-                    "p_1": "Many people in our prisons have learning disabilities, mental health problems and drink or drug problems. ",
-                    "p_2": "We would work with people who have committed crimes so they can quickly overcome their problems and get back to being law abiding, responsible citizens.",
-                    "p_3": "We would provide more education in prisons so people are ready for work when they get out. "
-                },
-                "It all adds up": {
-                    "p_0": "This document explains many of the things that the Green Party says it would do if we get ",
-                    "p_1": "elected to form the next government.",
-                    "p_2": "We want to do a lot but we have checked and we can afford all the things that we say that we will do.",
-                    "p_3": "You can find more information from the Green Party website www.greenparty.org.uk"
-                }
+            "Intro": {
+                "p_0": "We believe people working together to get the best for everyone. We call this the common good. ",
+                "p_1": "The Green Party would work for:",
+                "ul_2": "<li class=\"c1 c4\">Friendly public services.</li><li class=\"c1 c4\">Action to stop the climate and weather from getting worse.</li><li class=\"c1 c4\">Fairness for everyone.</li><li class=\"c1 c4\">Helping local people and local businesses.</li>",
+                "p_3": "Things have been going wrong in our country:",
+                "ul_4": "<li class=\"c1 c4\">We have been encouraged to compete against each other instead of working together.</li><li class=\"c1 c4\">The rich have been getting richer and the poor have been getting poorer.</li><li class=\"c1 c4\">We have been polluting our world so the climate is changing and the weather is likely to get worse and worse.</li><li class=\"c1 c4\">Too many of our public services have been given to private companies, so people don’t have a say in how they are run. </li>",
+                "p_5": "We want a green and democratic country where people can have a say in how things are run.",
+                "p_6": "We want a health service which is run by the NHS and not private companies. ",
+                "p_7": "A decent living",
+                "p_8": "We are told that the amount of money and business in the country is growing. But it is not being shared properly:",
+                "ul_9": "<li class=\"c1 c4\">More than one in four children are growing up in poverty.</li><li class=\"c1 c4\">The bosses of the biggest companies earn more than 100 times more than their staff.</li><li class=\"c1 c4\">Nearly 1,000,000 people have gone to food banks for food.</li><li class=\"c1 c4\">The wages of the top managers have gone up very much faster than everyone else. </li>",
+                "p_10": "It’s not just poor people.",
+                "p_11": "Families on ordinary wages are facing a real squeeze as prices go up and wages stay the same.",
+                "p_12": "The Green Party believes that how we share the money is more important than just getting more and more money for the better off. ",
+                "p_13": "We don’t have to cut services. ",
+                "p_14": "The Green Party believes that we don’t have to cut services.",
+                "p_15": "Instead we need to:",
+                "ul_16": "<li class=\"c1 c4\">Create good jobs.</li><li class=\"c1 c4\">Make electricity in ways that does not harm the climate and weather.</li><li class=\"c1 c4\">Protect the natural world.</li><li class=\"c1 c4\">Make things fairer and safer for all people.</li><li class=\"c1 c4\">Health, education, and trains should be run as a public service, not by private companies.</li><li class=\"c1 c4\">Support people who cannot work to live in dignity </li>"
+            },
+            "The Earth": {
+                "p_0": "We must protect the earth. ",
+                "p_1": "None of us can live without it.",
+                "p_2": "The way we are living on the planet is causing:",
+                "ul_3": "<li class=\"c1 c4\">Many types of living things to die out.</li><li class=\"c1 c4\">More and more pollution is causing the climate and weather to change.</li>"
+            },
+            "The Countryside": {
+                "p_0": "We need to:",
+                "ul_1": "<li class=\"c1 c4\">Protect and look after our countryside.</li><li class=\"c1 c4\">Stop building on green spaces.</li><li class=\"c1 c4\">Reduce the amounts of chemicals we put on fields .</li><li class=\"c1 c4\">Improve the quality of our water supply.</li><li class=\"c1 c4\">Try to make sure that everyone lives within 5 minutes walk of a Green Open Space. </li>"
+            },
+            "Animals": {
+                "p_0": "We need to look after animals better by:",
+                "ul_1": "<li class=\"c1 c4\">Keeping the ban on hunting with dogs and banning any kind of hunting animals for sport or pleasure.</li><li class=\"c1 c4\">Ending the Badger cull.</li><li class=\"c1 c4\">Stop experiments on animals except to find new cures for diseases.</li>"
+            },
+            "Food and Farming": {
+                "p_0": "We need to make sure that:",
+                "ul_1": "<li class=\"c1 c4\">Good food is available at prices that people can afford.</li><li class=\"c1 c4\">There is enough food for everyone.</li><li class=\"c1 c4\">Farmers look after the countryside and treat animals well </li>"
+            },
+            "Waste and recycling": {
+                "p_0": "We need to look after the earth better by being careful what we throw away.",
+                "p_1": "We should:",
+                "ul_2": "<li class=\"c1 c4\">Reduce how much stuff we use.</li><li class=\"c1 c4\">Reuse things when we have finished with them.</li><li class=\"c1 c4\">Recycle or find another way to use things when we have finished using them.</li>"
+            },
+            "Energy and the climate": {
+                "p_0": "We have been creating energy like electricity and transport by burning coal, oil and gas for many years.",
+                "p_1": "This has caused pollution which is now causing changes to our climate and weather.",
+                "p_2": "We need to find new ways to create electricity and to power our transport that does not harm the planet. ",
+                "p_3": "The Green Party would:",
+                "ul_4": "<li class=\"c1 c4\">Spend a lot of money so we can create the electricity we need from wind, the sun, the tides and from crops we have grown.</li><li class=\"c1 c4\">Provide free insulation to 9 million homes so they keep warm for less money.</li><li class=\"c1 c4\">Build new homes to a high standard that are cheap to heat.</li><li class=\"c1 c4\">Make it easier for people and communities to make their own electricity so they won’t have to pay big bills to companies.</li><li class=\"c1 c4\">Give more money to local councils so they can protect communities against flooding.</li>"
+            },
+            "Equality": {
+                "p_0": "Equality is about being fair to everyone and giving everyone a chance to make the most of their lives.",
+                "p_1": "Countries that are more equal are happier countries.",
+                "p_2": "The Green Party will tackle the problems of inequality like:",
+                "ul_3": "<li class=\"c1 c4\">Hate crime against disabled people and people with mental health problems</li><li class=\"c1 c4\">The widening gap between rich and poor.</li><li class=\"c1 c4\">Racism.</li><li class=\"c1 c4\">Violence against women.</li><li class=\"c1 c4\">The pay gap between men and women.</li><li class=\"c1 c4\">Discrimination against people who are Gay, Lesbian, Bisexual, Transgender, Intersex and Queer and many other issues. </li>",
+                "p_4": "For disabled people we will:",
+                "ul_5": "<li class=\"c1 c4\">Get rid of ATOS and get doctors to decide if people are fit for work.</li><li class=\"c1 c4\">Increase the carers allowance by 50%.</li><li class=\"c1 c4\">Make sure disabled people get their rights in education, childcare, healthcare and in the benefits system.</li>",
+                "p_6": "For younger people we would:",
+                "ul_7": "<li class=\"c1 c4\">Double the money for young people’s services.</li><li class=\"c1 c4\">Create 2000 Young people’s centres where young people can meet and be creative.</li><li class=\"c1 c4\">Make public transport free for young people.</li>",
+                "p_8": "For older people we would:",
+                "ul_9": "<li class=\"c1 c4\">Provide free social care.</li><li class=\"c1 c4\">Provide free prescriptions.</li><li class=\"c1 c4\">Get rid of the TV licence</li>"
+            },
+            "Health and well-being": {
+                "p_0": "The Green Party believes that health care should not be bought and sold. ",
+                "p_1": "We want the NHS to be:",
+                "ul_2": "<li class=\"c1 c4\">Free for everyone.</li><li class=\"c1 c4\">Paid for by the government not by patients.</li><li class=\"c1 c4\">Run by the NHS and not private companies.</li>",
+                "p_3": "We would bring local health services under the control of local councils, so people will be able to have a say in what local health services they want. ",
+                "p_4": "We would get rid of the way that one health trust pays for services from another health trust. This would save a lot of money in administration which could be used to pay for more doctors and nurses.",
+                "p_5": "We would put a lot of money into the health service and then increase the amount of money year on year to take account of the increase in numbers of older people.",
+                "p_6": "We would work to help people live healthy lives. We would:",
+                "ul_7": "<li class=\"c1 c4\">Tackle air pollution which causes problems for thousands of people.</li><li class=\"c1 c4\">Make healthy food less expensive while making unhealthy food more expensive.</li>"
+            },
+            "Mental Health": {
+                "p_0": "We will work to improve mental health services. We will:",
+                "ul_1": "<li class=\"c1 c4\">Spend a lot more money on mental health services.</li><li class=\"c1 c4\">Make sure that no-one has to wait more than 14 days to see a mental health professional.</li><li class=\"c1 c4\">Make sure that everyone who is having a mental health crisis can get quick treatment.</li>"
+            },
+            "Education": {
+                "p_0": "The first few years are very important for the child and the parents. ",
+                "p_1": "The Green Party would build a free early education and childcare service for all children from birth to age 7 which would be the new age to start school.",
+                "p_2": "The Green Party thinks that children have to take too many tests which is boring for both the pupil and the teacher. ",
+                "p_3": "We want children to learn all subjects in a way that lets them be creative.",
+                "p_4": "Instead of being in competition we would bring schools back within the local council so they can work together to provide the best education for all children. ",
+                "p_5": "We would get rid of SATS tests and League Tables. We would abolish Ofsted which puts too much pressure on teachers. "
+            },
+            "Housing": {
+                "p_0": "Housing has become too expensive. People can’t afford to buy a house or to rent. The Green Party would work to reduce the cost of housing. ",
+                "p_1": " We would get rid of the bedroom tax and make it easier for people to rent out a spare room if they want to.",
+                "p_2": "We would build 500,000 affordable socially rented homes.",
+                "p_3": "We would give more rights to homeless people. We want to end rough sleeping completely."
+            },
+            "Work and tax": {
+                "p_0": "The Green Party would increase the minimum wage so it is a living wage.",
+                "p_1": "We want to increase the minimum wage to £10 an hour by 2020. We would end zero hour contracts.",
+                "p_2": "We would make sure that the highest paid person in any organisation earns no more than 10 times the lowest paid worker.",
+                "p_3": "The Green Party would work to help small businesses.",
+                "p_4": "Tax is an important way that we all help to provide money for the services that everyone needs.",
+                "p_5": "In Britain we are paying less in tax than other similar countries in Europe.",
+                "p_6": "We think that there are many people who could afford to pay more so that we can we can have good health and other local services. ",
+                "p_7": "The Green Party would:",
+                "ul_8": "<li class=\"c1 c4\">Make sure that rich people and big companies pay the tax that they should.</li><li class=\"c1 c4\">Introduce a wealth tax on the very richest people.</li><li class=\"c1 c4\">Introduce a Robin Hood Tax on the sale of company shares and bonds.</li><li class=\"c1 c4\">Increase the amount of tax on large companies </li>"
+            },
+            "Benefits": {
+                "p_0": "The Green Party thinks that the benefits system is unfair, costs far too much to run, and stops people from finding work.",
+                "p_1": "We think the time has come to think again about the whole tax and benefits system. "
+            },
+            "Basic income": {
+                "p_0": "The Green party would plan to make a complete change to the tax and benefit system. We would pay every woman, man and child who is legally allowed to be in the country a basic income which is enough to cover basic needs. ",
+                "p_1": "Children will receive a reduced basic income: Child benefit.",
+                "p_2": "Pensioners will receive their basic income as a Citizen’s pension.",
+                "p_3": "The basic income would:",
+                "ul_4": "<li class=\"c1 c4\">Save the country lots of money in administration because it is cheap and easy to run.</li><li class=\"c1 c4\">Allow people to earn money without worry about losing their benefit </li>"
+            },
+            "The government and local councils": {
+                "p_0": "The Green party would make some changes to the way that we choose our government. ",
+                "p_1": "We would:",
+                "ul_2": "<li class=\"c1 c4\">Make people who want to be in the house of Lords stand for election.</li><li class=\"c1 c4\">Change the system of voting so that everyone’s vote counts.</li><li class=\"c1 c4\">Move towards equal numbers of men and women in parliament by 2025</li>"
+            },
+            "Local Councils": {
+                "p_0": "The Green Party would give a lot more money to local councils so that they can restore the local services that have been cut.",
+                "p_1": "We would also:",
+                "ul_2": "<li class=\"c1 c4\">Make local councils control schools and health services in their area.</li><li class=\"c1 c4\">Allow local councils to run public transport and other services like bin collection if they want.</li>"
+            },
+            "Culture media and sport": {
+                "p_0": "The Green Party would encourage people to take part in arts, music and sports. ",
+                "p_1": "We want more people to be involved, not just watching or listening to it.",
+                "p_2": "We would get rid of the television licence and pay for the BBC out of general taxes.",
+                "p_3": "We would work hard to encourage disabled people and people from minority groups to be able to take part in culture and sports."
+            },
+            "Transport": {
+                "p_0": "We need to move away from people using cars so much. ",
+                "p_1": "There is too much congestion and pollution.",
+                "p_2": "The Green party thinks that the priority should be:",
+                "ol_3": "<li class=\"c1 c4\">Walking and disabled access to all other forms of transport.</li><li class=\"c1 c4\">Cycling.</li><li class=\"c1 c4\">Public transport - buses, trams and trains.</li><li class=\"c1 c4\">Small vans and taxis.</li><li class=\"c1 c4\">Cars.</li><li class=\"c1 c4\">Big lorries.</li><li class=\"c1 c4\">Aircraft </li>",
+                "p_4": "The Green party would:",
+                "ul_5": "<li class=\"c1 c4\">Bring the railways back into public hands.</li><li class=\"c1 c4\">Work for affordable public transport accessible for all.</li><li class=\"c1 c4\">Free local transport for pensioners.</li><li class=\"c1 c4\">Free public transport for young people.</li><li class=\"c1 c4\">Make streets healthy and safe for walking.</li>"
+            },
+            "Working with other countries": {
+                "p_0": "We all live in one world and we need to work together. ",
+                "p_1": "The Green party would:",
+                "ul_2": "<li class=\"c1 c4\">Work with other countries to help everyone cut down pollution that causes climate change.</li><li class=\"c1 c4\">Increase the work we do to help people in the very poorest countries overcome deep poverty.</li><li class=\"c1 c4\">Work with other countries to find peaceful ways to solve conflicts.</li>"
+            },
+            "Defence": {
+                "p_0": "A green government would not threaten any other country but we would make it clear that we would fight back if we are threatened or attacked.",
+                "p_1": "We would save £100bn by not having nuclear weapons. "
+            },
+            "Crime and punishment": {
+                "p_0": "Many people end up in our prisons because they have other problems. ",
+                "p_1": "Many people in our prisons have learning disabilities, mental health problems and drink or drug problems. ",
+                "p_2": "We would work with people who have committed crimes so they can quickly overcome their problems and get back to being law abiding, responsible citizens.",
+                "p_3": "We would provide more education in prisons so people are ready for work when they get out. "
+            },
+            "It all adds up": {
+                "p_0": "This document explains many of the things that the Green Party says it would do if we get ",
+                "p_1": "elected to form the next government.",
+                "p_2": "We want to do a lot but we have checked and we can afford all the things that we say that we will do.",
+                "p_3": "You can find more information from the Green Party website www.greenparty.org.uk"
             }
         }
+    },
     {
         "name": "Ukip",
         "data": {
-                "The Economy": {
-                    "p_0": "People buy things like food and clothes and sell things like cars and houses. ",
-                    "p_1": "Businesses buy and sell things. ",
-                    "p_2": "For example, a business that makes washing machines buys the parts for the machines and then sells the finished washing machines. ",
-                    "p_3": "The banks look after our savings and lend us and businesses money. ",
-                    "p_4": "How all this works together is called the economy​. ",
-                    "p_5": "We believe in fairness and business. ",
-                    "p_6": "We want to save the UK money by leaving the European Union (EU).",
-                    "p_7": "We want to save money by sending less money to other countries.",
-                    "p_8": "We do not want to build a high-speed railway. This will save money. ",
-                    "p_9": "We will:",
-                    "ul_10": "<li class=\"c0 c2\">Change the law so people earning minimum wage do not pay tax.</li>",
-                    "ul_11": "<li class=\"c0 c2\">Get rid of the tax people have to pay when someone they know dies and leaves them money</li><li class=\"c0 c2\">Make big companies pay a fair amount of tax.</li>"
-                },
-                "Immigration": {
-                    "p_0": "We believe immigration is far too high.",
-                    "p_1": "We think immigration should be controlled better.",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c0 c2\">Take the UK out of the European Union.</li><li class=\"c0 c2\">Stop people coming to this country unless they have useful skills.</li><li class=\"c0 c2\">Use a points system to decide who can come and live here.</li><li class=\"c0 c2\">Make sure people who get married are doing it because they are in love, not because they want to live in the UK.</li><li class=\"c0 c2\">Make sure that immigrants pay tax for 5 years before claiming benefits including NHS treatment.</li><li class=\"c0 c2\">Make sure all visitors and new immigrants to the UK have their own health insurance.</li>"
-                },
-                "The NHS": {
-                    "p_0": "We believe the NHS should be free for UK citizens whenever they need it.",
-                    "p_1": "We will:",
-                    "ul_2": "<li class=\"c0 c2\">Spend £12 billion on the NHS England by 2020.</li><li class=\"c0 c2\">Pay for 20,000 more nurses, 8,000 more GPs and 3,000 more midwives.</li><li class=\"c0 c2\">Spend an extra £1.5 billion on mental health and dementia services over the next 5 years.</li><li class=\"c0 c2\">Get rid of hospital parking charges.</li><li class=\"c0 c2\">Make people pay for healthcare if they come from another country.</li>"
-                },
-                "Social care": {
-                    "p_0": "Social care​ is the way we look after and protect children, the elderly and adults who need extra support. ",
-                    "p_1": "For example people adults who are ill, disabled or living in poverty. ",
-                    "p_2": "We believe 900,000 people between the age of 65 and 89 are not being looked after properly.",
-                    "p_3": "We will:",
-                    "ul_4": "<li class=\"c0 c2\">Put £5.2 billion into social care between 2015 and 2020.</li><li class=\"c0 c2\">Put money made from fracking tax into a fund to pay for elderly care.</li><li class=\"c0 c2\">Protect day care centres, home care and meals on wheels.</li>"
-                },
-                "Pensions": {
-                    "p_0": "A pension ​is a regular payment from the government to people who have retired.",
-                    "p_1": "We believe in people having more choice over their pension. ",
-                    "p_2": "We do not want to raise the retirement age to 67, especially for women.",
-                    "p_3": "We will:",
-                    "ul_4": "<li class=\"c0 c2\">Let people get their state pension at the age of 65.</li>",
-                    "ul_5": "<li class=\"c0 c2\">Double the money spent on free pensions advice to help people make good choices.</li><li class=\"c0 c2\">Make it illegal to phone someone you do not know about their pension plans.</li>"
-                },
-                "Welfare and disability": {
-                    "p_0": "We believe there should be help for people need it. ",
-                    "p_1": "But we will not be soft on who we do not think deserves help.",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c0 c2\">Lower the amount people can get through benefits so having a job is more worthwhile.</li><li class=\"c0 c2\">Stop child benefit for children who do not live here all the time.</li><li class=\"c0 c2\">Only give child benefit to 2 children per family if they are new to the UK.</li><li class=\"c0 c2\">Get rid of the ‘bedroom tax’.</li><li class=\"c0 c2\">Make GPs in charge of deciding how able people are to work.</li><li class=\"c0 c2\">Increase Carers’ Allowance by £572 a year so it is the same as Job Seekers’ Allowance. </li>"
-                },
-                "Childcare and the family": {
-                    "p_0": "We believe children and families should be supported.",
-                    "p_1": "We want people to be able to afford childcare.",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c0 c2\">Build more nurseries.</li><li class=\"c0 c2\">Make it easier for parents to get child care in an emergency.</li><li class=\"c0 c2\">Make it law that if two parents split up, they should split childcare half and half unless there is a reason not to.</li><li class=\"c0 c2\">Give grandparents visiting rights to their grandchildren.</li>"
-                },
-                "Education": {
-                    "p_0": "We believe in a good education for every child. ",
-                    "p_1": "We will:",
-                    "ul_2": "<li class=\"c0 c2\">Give teachers less paperwork.</li><li class=\"c0 c2\">Stop payments to teachers that are based on how well they are doing.</li><li class=\"c0 c2\">Get rid of SAT tests in infant school.</li><li class=\"c0 c2\">End sex education for primary school children.</li><li class=\"c0 c2\">Bring back grammar schools.</li><li class=\"c0 c2\">Get rid of tuition fees for science and maths subjects at university.</li><li class=\"c0 c2\">Make everyone in school learn first aid.</li>"
-                },
-                "Housing and environment": {
-                    "p_0": "We believe there are not enough houses that people can afford in Britain. ",
-                    "p_1": "We want to stop houses being built on green land.",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c0 c2\">Build 1 million homes by 2020.</li><li class=\"c0 c2\">Make sure people who have local connections to an area are top of the list for social housing.</li><li class=\"c0 c2\">Let local people have the final say on what is built in their area.</li><li class=\"c0 c2\">Stop people who own expensive houses having to pay a Mansion Tax.</li>"
-                },
-                "Transport": {
-                    "p_0": "We believe people should be able to use whatever kind of transport they like. ",
-                    "p_1": "We will:",
-                    "ul_2": "<li class=\"c0 c2\">Stop a high speed railway from being built.</li><li class=\"c0 c2\">Try to re-open Manston Airport in Kent.</li><li class=\"c0 c2\">Make foreign lorries pay extra to use our roads.</li>"
-                },
-                "Energy": {
-                    "p_0": "We believe families pay too much for energy. ",
-                    "p_1": "We believe other parties will make energy more expensive.",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c0 c2\">Get rid of the 2008 Climate Change Act </li><li class=\"c0 c2\">Support Fracking​ for shale gas. Fracking ​is when you drill deep into the ground to release gas which we can use for energy.</li>",
-                    "ul_4": "<li class=\"c0 c2\">Stop giving public money to support wind turbines and solar photovoltaic rays. ​These ​are used to turn energy from the sun into electricity.</li><li class=\"c0 c2\">Only support renewable energy if it can give us energy at good prices. This is energy that is not limited, like wind power. </li><li class=\"c0 c2\">Try to get the coal industry going again.</li><li class=\"c0 c2\">Cut fuel bills by getting rid of green levies. ​This is tax paid by energy companies to try to make them more environmentally friendly. </li>"
-                },
-                "Employment": {
-                    "p_0": "We believe being in the EU is making it harder to British people to get jobs. ",
-                    "p_1": "We will: ",
-                    "ul_2": "<li class=\"c0 c2\">Make sure all businesses pay their workers the minimum wage.</li><li class=\"c0 c2\">End zero-hours contracts. </li><li class=\"c0 c2\">Let British businesses hire British workers over foreign workers.</li><li class=\"c0 c2\">Stop schemes that make it better for businesses to hire foreign workers.</li>"
-                },
-                "Farming and countryside": {
-                    "p_0": "We support British farmers. ",
-                    "p_1": "We will:",
-                    "ul_2": "<li class=\"c0 c2\">Label food so you know more about it.</li><li class=\"c0 c2\">Allow a vote in parliament on GM foods.</li>"
-                },
-                "Animal welfare": {
-                    "p_0": "We believe we can improve the health of animals if we leave the EU.",
-                    "p_1": "We will:",
-                    "ul_2": "<li class=\"c0 c2\">Triple the amount of time people go to jail for cruelty to animals.</li><li class=\"c0 c2\">Make sure people who have been cruel to animals can not own an animal.</li><li class=\"c0 c2\">Ban animal testing for things like make-up.</li><li class=\"c0 c2\">Stop animals being taken out of the country just to be killed.</li><li class=\"c0 c2\">We will put cameras in every abbatoir. This is a place where animals are slaughtered. </li>"
-                },
-                "Heritage and tourism": {
-                    "p_0": "We believe in protecting our history and tourism industry.",
-                    "p_1": "We will:",
-                    "ul_2": "<li class=\"c0 c2\">Create a new Minister of State for Heritage and Tourism.</li><li class=\"c0 c2\">Stop VAT on repairs to historic churches and listed buildings.</li><li class=\"c0 c2\">Protect areas in market towns, the countryside and seaside towns.</li><li class=\"c0 c2\">Save more pubs.</li>"
-                },
-                "Crime and Justice": {
-                    "p_0": "We will pay for 600 new jobs in the police service, prison service and Border Agency. ",
-                    "p_1": "We believe everything to do with the police and justice should be decided by Britain.",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c0 c2\">Stop foreign criminals coming here.</li><li class=\"c0 c2\">Force foreign people who break the law here to leave.</li><li class=\"c0 c2\">We will not give criminals the vote.</li><li class=\"c0 c2\">We will not allow European police here.</li>"
-                },
-                "Political reform": {
-                    "p_0": "We want people to feel more connected to politics.",
-                    "p_1": "We will:",
-                    "ul_2": "<li class=\"c0 c2\">Allow a referendum every 2 years on the most popular petition signed by more than 2 million people.</li><li class=\"c0 c2\">Hold debates over petitions that get the support of more than 100,000 people.</li><li class=\"c0 c2\">Only let English people vote on English laws.</li><li class=\"c0 c2\">Stop people cheating the postal vote system.</li>"
-                },
-                "Local Government": {
-                    "p_0": "We believe local areas should have more power.",
-                    "p_1": "We will:",
-                    "ul_2": "<li class=\"c0 c2\">Keep Council tax as low as possible.</li><li class=\"c0 c2\">Let local people decide on big building projects.</li><li class=\"c0 c2\">Stop noisy and anti-social neighbours.</li><li class=\"c0 c2\">Stop people setting up traveller pitches without permission.</li>",
-                    "ul_3": "<li class=\"c0 c2\">Make rubbish bin collections weekly.</li><li class=\"c0 c2\">Cut council costs.</li>"
-                },
-                "British culture": {
-                    "p_0": "We want to celebrate British culture. ",
-                    "p_1": "We will:",
-                    "ul_2": "<li class=\"c0 c2\">Make sure everyone lives by British laws.</li><li class=\"c0 c2\">Protect people’s right to say what they like.</li><li class=\"c0 c2\">Stop supporting faiths we believe don’t respect human rights.</li>"
-                },
-                "Trade": {
-                    "p_0": "We believe if we leave the EU we will be able to trade better with the rest of the world.",
-                    "p_1": "We will:",
-                    "ul_2": "<li class=\"c0 c2\">Rejoin the World Trade Organisation.</li><li class=\"c0 c2\">Make free trade deals around the world. </li>"
-                },
-                "Foreign affairs": {
-                    "p_0": "We believe Britain has been involved in too many wars.",
-                    "p_1": "We will:",
-                    "ul_2": "<li class=\"c0 c2\">Not spend public money on the armed forces without involving Parliament.</li><li class=\"c0 c2\">Protect British land.</li><li class=\"c0 c2\">Build closer relationships with English speaking places.</li><li class=\"c0 c2\">Try to help make peace in the Middle East.</li>"
-                },
-                "Defence": {
-                    "p_0": "We believe in defending Britain by putting money into the armed forces.",
-                    "p_1": "We will:",
-                    "ul_2": "<li class=\"c0 c2\">Stop people who are in working in the armed forces overseas from having to pay income tax.</li><li class=\"c0 c2\">Ppen a military hospital to treat people who have worked in the armed forces.</li><li class=\"c0 c2\">Keep our Trident nuclear deterrent.</li><li class=\"c0 c2\">Say no to an EU army being set up.</li>"
-                },
-                "Overseas aid": {
-                    "p_0": "We want to help the poorest people in the world. ",
-                    "p_1": "We think too much money goes to other countries who can help themselves.",
-                    "p_2": "We will:",
-                    "ul_3": "<li class=\"c0 c2\">Only send 0.2% of the UK’s income to other countries.</li><li class=\"c0 c2\">Make trade rules fair.</li><li class=\"c0 c2\">Close the Department for International Development so the Foreign Office can do its work instead.</li>"
-                }
+            "The Economy": {
+                "p_0": "People buy things like food and clothes and sell things like cars and houses. ",
+                "p_1": "Businesses buy and sell things. ",
+                "p_2": "For example, a business that makes washing machines buys the parts for the machines and then sells the finished washing machines. ",
+                "p_3": "The banks look after our savings and lend us and businesses money. ",
+                "p_4": "How all this works together is called the economy​. ",
+                "p_5": "We believe in fairness and business. ",
+                "p_6": "We want to save the UK money by leaving the European Union (EU).",
+                "p_7": "We want to save money by sending less money to other countries.",
+                "p_8": "We do not want to build a high-speed railway. This will save money. ",
+                "p_9": "We will:",
+                "ul_10": "<li class=\"c0 c2\">Change the law so people earning minimum wage do not pay tax.</li><li class=\"c0 c2\">Get rid of the tax people have to pay when someone they know dies and leaves them money</li><li class=\"c0 c2\">Make big companies pay a fair amount of tax.</li>"
+            },
+            "Immigration": {
+                "p_0": "We believe immigration is far too high.",
+                "p_1": "We think immigration should be controlled better.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c0 c2\">Take the UK out of the European Union.</li><li class=\"c0 c2\">Stop people coming to this country unless they have useful skills.</li><li class=\"c0 c2\">Use a points system to decide who can come and live here.</li><li class=\"c0 c2\">Make sure people who get married are doing it because they are in love, not because they want to live in the UK.</li><li class=\"c0 c2\">Make sure that immigrants pay tax for 5 years before claiming benefits including NHS treatment.</li><li class=\"c0 c2\">Make sure all visitors and new immigrants to the UK have their own health insurance.</li>"
+            },
+            "The NHS": {
+                "p_0": "We believe the NHS should be free for UK citizens whenever they need it.",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c0 c2\">Spend £12 billion on the NHS England by 2020.</li><li class=\"c0 c2\">Pay for 20,000 more nurses, 8,000 more GPs and 3,000 more midwives.</li><li class=\"c0 c2\">Spend an extra £1.5 billion on mental health and dementia services over the next 5 years.</li><li class=\"c0 c2\">Get rid of hospital parking charges.</li><li class=\"c0 c2\">Make people pay for healthcare if they come from another country.</li>"
+            },
+            "Social care": {
+                "p_0": "Social care​ is the way we look after and protect children, the elderly and adults who need extra support. ",
+                "p_1": "For example people adults who are ill, disabled or living in poverty. ",
+                "p_2": "We believe 900,000 people between the age of 65 and 89 are not being looked after properly.",
+                "p_3": "We will:",
+                "ul_4": "<li class=\"c0 c2\">Put £5.2 billion into social care between 2015 and 2020.</li><li class=\"c0 c2\">Put money made from fracking tax into a fund to pay for elderly care.</li><li class=\"c0 c2\">Protect day care centres, home care and meals on wheels.</li>"
+            },
+            "Pensions": {
+                "p_0": "A pension ​is a regular payment from the government to people who have retired.",
+                "p_1": "We believe in people having more choice over their pension. ",
+                "p_2": "We do not want to raise the retirement age to 67, especially for women.",
+                "p_3": "We will:",
+                "ul_4": "<li class=\"c0 c2\">Let people get their state pension at the age of 65.</li><li class=\"c0 c2\">Double the money spent on free pensions advice to help people make good choices.</li><li class=\"c0 c2\">Make it illegal to phone someone you do not know about their pension plans.</li>"
+            },
+            "Welfare and disability": {
+                "p_0": "We believe there should be help for people need it. ",
+                "p_1": "But we will not be soft on who we do not think deserves help.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c0 c2\">Lower the amount people can get through benefits so having a job is more worthwhile.</li><li class=\"c0 c2\">Stop child benefit for children who do not live here all the time.</li><li class=\"c0 c2\">Only give child benefit to 2 children per family if they are new to the UK.</li><li class=\"c0 c2\">Get rid of the ‘bedroom tax’.</li><li class=\"c0 c2\">Make GPs in charge of deciding how able people are to work.</li><li class=\"c0 c2\">Increase Carers’ Allowance by £572 a year so it is the same as Job Seekers’ Allowance. </li>"
+            },
+            "Childcare and the family": {
+                "p_0": "We believe children and families should be supported.",
+                "p_1": "We want people to be able to afford childcare.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c0 c2\">Build more nurseries.</li><li class=\"c0 c2\">Make it easier for parents to get child care in an emergency.</li><li class=\"c0 c2\">Make it law that if two parents split up, they should split childcare half and half unless there is a reason not to.</li><li class=\"c0 c2\">Give grandparents visiting rights to their grandchildren.</li>"
+            },
+            "Education": {
+                "p_0": "We believe in a good education for every child. ",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c0 c2\">Give teachers less paperwork.</li><li class=\"c0 c2\">Stop payments to teachers that are based on how well they are doing.</li><li class=\"c0 c2\">Get rid of SAT tests in infant school.</li><li class=\"c0 c2\">End sex education for primary school children.</li><li class=\"c0 c2\">Bring back grammar schools.</li><li class=\"c0 c2\">Get rid of tuition fees for science and maths subjects at university.</li><li class=\"c0 c2\">Make everyone in school learn first aid.</li>"
+            },
+            "Housing and environment": {
+                "p_0": "We believe there are not enough houses that people can afford in Britain. ",
+                "p_1": "We want to stop houses being built on green land.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c0 c2\">Build 1 million homes by 2020.</li><li class=\"c0 c2\">Make sure people who have local connections to an area are top of the list for social housing.</li><li class=\"c0 c2\">Let local people have the final say on what is built in their area.</li><li class=\"c0 c2\">Stop people who own expensive houses having to pay a Mansion Tax.</li>"
+            },
+            "Transport": {
+                "p_0": "We believe people should be able to use whatever kind of transport they like. ",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c0 c2\">Stop a high speed railway from being built.</li><li class=\"c0 c2\">Try to re-open Manston Airport in Kent.</li><li class=\"c0 c2\">Make foreign lorries pay extra to use our roads.</li>"
+            },
+            "Energy": {
+                "p_0": "We believe families pay too much for energy. ",
+                "p_1": "We believe other parties will make energy more expensive.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c0 c2\">Get rid of the 2008 Climate Change Act </li><li class=\"c0 c2\">Support Fracking​ for shale gas. Fracking ​is when you drill deep into the ground to release gas which we can use for energy.</li><li class=\"c0 c2\">Stop giving public money to support wind turbines and solar photovoltaic rays. ​These ​are used to turn energy from the sun into electricity.</li><li class=\"c0 c2\">Only support renewable energy if it can give us energy at good prices. This is energy that is not limited, like wind power. </li><li class=\"c0 c2\">Try to get the coal industry going again.</li><li class=\"c0 c2\">Cut fuel bills by getting rid of green levies. ​This is tax paid by energy companies to try to make them more environmentally friendly. </li>"
+            },
+            "Employment": {
+                "p_0": "We believe being in the EU is making it harder to British people to get jobs. ",
+                "p_1": "We will: ",
+                "ul_2": "<li class=\"c0 c2\">Make sure all businesses pay their workers the minimum wage.</li><li class=\"c0 c2\">End zero-hours contracts. </li><li class=\"c0 c2\">Let British businesses hire British workers over foreign workers.</li><li class=\"c0 c2\">Stop schemes that make it better for businesses to hire foreign workers.</li>"
+            },
+            "Farming and countryside": {
+                "p_0": "We support British farmers. ",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c0 c2\">Label food so you know more about it.</li><li class=\"c0 c2\">Allow a vote in parliament on GM foods.</li>"
+            },
+            "Animal welfare": {
+                "p_0": "We believe we can improve the health of animals if we leave the EU.",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c0 c2\">Triple the amount of time people go to jail for cruelty to animals.</li><li class=\"c0 c2\">Make sure people who have been cruel to animals can not own an animal.</li><li class=\"c0 c2\">Ban animal testing for things like make-up.</li><li class=\"c0 c2\">Stop animals being taken out of the country just to be killed.</li><li class=\"c0 c2\">We will put cameras in every abbatoir. This is a place where animals are slaughtered. </li>"
+            },
+            "Heritage and tourism": {
+                "p_0": "We believe in protecting our history and tourism industry.",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c0 c2\">Create a new Minister of State for Heritage and Tourism.</li><li class=\"c0 c2\">Stop VAT on repairs to historic churches and listed buildings.</li><li class=\"c0 c2\">Protect areas in market towns, the countryside and seaside towns.</li><li class=\"c0 c2\">Save more pubs.</li>"
+            },
+            "Crime and Justice": {
+                "p_0": "We will pay for 600 new jobs in the police service, prison service and Border Agency. ",
+                "p_1": "We believe everything to do with the police and justice should be decided by Britain.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c0 c2\">Stop foreign criminals coming here.</li><li class=\"c0 c2\">Force foreign people who break the law here to leave.</li><li class=\"c0 c2\">We will not give criminals the vote.</li><li class=\"c0 c2\">We will not allow European police here.</li>"
+            },
+            "Political reform": {
+                "p_0": "We want people to feel more connected to politics.",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c0 c2\">Allow a referendum every 2 years on the most popular petition signed by more than 2 million people.</li><li class=\"c0 c2\">Hold debates over petitions that get the support of more than 100,000 people.</li><li class=\"c0 c2\">Only let English people vote on English laws.</li><li class=\"c0 c2\">Stop people cheating the postal vote system.</li>"
+            },
+            "Local Government": {
+                "p_0": "We believe local areas should have more power.",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c0 c2\">Keep Council tax as low as possible.</li><li class=\"c0 c2\">Let local people decide on big building projects.</li><li class=\"c0 c2\">Stop noisy and anti-social neighbours.</li><li class=\"c0 c2\">Stop people setting up traveller pitches without permission.</li><li class=\"c0 c2\">Make rubbish bin collections weekly.</li><li class=\"c0 c2\">Cut council costs.</li>"
+            },
+            "British culture": {
+                "p_0": "We want to celebrate British culture. ",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c0 c2\">Make sure everyone lives by British laws.</li><li class=\"c0 c2\">Protect people’s right to say what they like.</li><li class=\"c0 c2\">Stop supporting faiths we believe don’t respect human rights.</li>"
+            },
+            "Trade": {
+                "p_0": "We believe if we leave the EU we will be able to trade better with the rest of the world.",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c0 c2\">Rejoin the World Trade Organisation.</li><li class=\"c0 c2\">Make free trade deals around the world. </li>"
+            },
+            "Foreign affairs": {
+                "p_0": "We believe Britain has been involved in too many wars.",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c0 c2\">Not spend public money on the armed forces without involving Parliament.</li><li class=\"c0 c2\">Protect British land.</li><li class=\"c0 c2\">Build closer relationships with English speaking places.</li><li class=\"c0 c2\">Try to help make peace in the Middle East.</li>"
+            },
+            "Defence": {
+                "p_0": "We believe in defending Britain by putting money into the armed forces.",
+                "p_1": "We will:",
+                "ul_2": "<li class=\"c0 c2\">Stop people who are in working in the armed forces overseas from having to pay income tax.</li><li class=\"c0 c2\">Ppen a military hospital to treat people who have worked in the armed forces.</li><li class=\"c0 c2\">Keep our Trident nuclear deterrent.</li><li class=\"c0 c2\">Say no to an EU army being set up.</li>"
+            },
+            "Overseas aid": {
+                "p_0": "We want to help the poorest people in the world. ",
+                "p_1": "We think too much money goes to other countries who can help themselves.",
+                "p_2": "We will:",
+                "ul_3": "<li class=\"c0 c2\">Only send 0.2% of the UK’s income to other countries.</li><li class=\"c0 c2\">Make trade rules fair.</li><li class=\"c0 c2\">Close the Department for International Development so the Foreign Office can do its work instead.</li>"
             }
         }
+    }
 ]
