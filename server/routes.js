@@ -25,6 +25,10 @@ module.exports = function(app) {
     .get(function(req, res) {
       res.sendfile(app.get('appPath') + '/assets/images/emojis@2x.png');
   });
+  app.route('/img/emoji-groups.png')
+    .get(function(req, res) {
+      res.sendfile(app.get('appPath') + '/assets/images/emoji-groups.png');
+  });
 
   // All other routes should redirect to the index.html
   app.route('/*')

@@ -11,7 +11,7 @@
     <form name="form" class="css-form" novalidate ng-submit="submitTranslation(form)">
       <div class="form-group" ng-class="{'has-error': form.submission.$error.emoji, 'has-success': !form.submission.$error.emoji}">
         <div ng-bind-html="userSubmission | emojify"></div>
-        <textarea name="submission" class="form-control big-font" ng-disabled="!isLoggedIn()" type="text" ng-model="userTranslation" ng-maxlength="140" maxlength="140" ng-minlength="2"></textarea>
+        <textarea name="submission" class="form-control big-font" emoji ng-disabled="!isLoggedIn()" type="text" ng-model="userTranslation" ng-maxlength="140" maxlength="140" ng-minlength="2"></textarea>
         <label class="control-label" for="submission">Characters remaining: {{140 - userTranslation.length}}</label>
         <label class="control-label" for="submission" ng-show="form.submission.$error.emoji">Please use emoji only!</label>
         <label class="control-label" for="submission" ng-show="form.submission.$error.maxlength">Must be less than 140 characters!</label>

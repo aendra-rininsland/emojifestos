@@ -236,6 +236,9 @@ module.exports = function (grunt) {
             '<%= yeoman.dist %>/public/{,*/}*.css',
             '<%= yeoman.dist %>/public/assets/images/{,*/}*.{png,jpg,jpeg,gif,webp,svg}',
             '<%= yeoman.dist %>/public/assets/fonts/*'
+          ],
+          ignore: [
+            '<%= yeoman.dist %>/public/assets/images/emojis@2x.png',
           ]
         }
       }
@@ -362,6 +365,14 @@ module.exports = function (grunt) {
           cwd: '.tmp/images',
           dest: '<%= yeoman.dist %>/public/assets/images',
           src: ['generated/*']
+        },
+        {
+         expand: true,
+         cwd: '<%= yeoman.client %>/bower_components/angular-emoji-picker/src/img',
+         dest: '<%= yeoman.dist %>/public/assets/images',
+         src: [
+           '*.png'
+         ]
         }, {
           expand: true,
           dest: '<%= yeoman.dist %>',
@@ -661,7 +672,7 @@ module.exports = function (grunt) {
     'cdnify',
     'cssmin',
     'uglify',
-    'rev',
+    // 'rev',
     'usemin'
   ]);
 
