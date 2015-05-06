@@ -34,7 +34,9 @@ exports.create = function(req, res) {
     if(err) { return handleError(res, err); }
     
     // Tweet aboot it!
-    T.post('statuses/update', { status: req.body.translation + ' — ' + req.body.party + ' Party' + ' #GE2015 ' + 'http://www.emojifestos.uk/translation/' + translation.id }, function(err, data, response) {
+    var tweetText = req.body.translation + ' — ' + req.body.party + ' Party' + ' #GE2015 #emojifestos ' + 'http://www.emojifestos.uk/translation/' + translation.id;
+    console.log(tweetText);
+    T.post('statuses/update', { status: tweetText }, function(err, data, response) {
       console.log('Tweeted!');
     })
     
